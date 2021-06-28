@@ -1,0 +1,1287 @@
+﻿Number,Task type,Short Description,Type,Priority,Assignment Group,Assigned To,Opened by,Created,Closed,Days to Close,Root Cause,Resolution Notes
+INC1188698,Incident,Unable to load DLL every time I open an app,IT,4 - Low,Contact Center,Sagara Gunawardena,Chris Qiu,12/17/20,12/18/20,1,,"Hi Chris, 
+Thank you for contacting Enterprise Service Desk.
+It was a pleasure assisting you on resolving your Intel Optane(tm) Memory Pinning message issue. After uninstalling unnecessary software ""Intel Optane(tm) Memory Pinning"" , your issue was resolved, with your permission, I am closing this ticket now. 
+Feel free to contact Enterprise Service Desk should you have any further queries.
+ Kind regards,
+Sagara Gunawardena
+Enterprise Service Desk
+ESD contact number: Ext. 88-4444 / +1 650.522.5888 / Toll Free Number (America) +1.844.827.4373"
+INC1209616,Incident,pH Meter 43774 Failed Daily Standardization Twice,,4 - Low,FC Lab Operations L1,Marcela Jimenez,Timothy Woods,02/01/21,02/08/21,7,need to restart instrument ,"Hi Timothy, I restarted the instrument and was able to perform standardization. I used buffers  4.01, 5.00 and 10.01 and it passed. Instrument is unlocked now and available for use. "
+INC1172185,Incident,Can't ungroup by column in materials tab of AOFC-2020-11-0101,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Timothy Woods,11/17/20,11/24/20,7,user knowledge/experience,"Root Cause: na
+Corrective Actions Taken: na,showed user how to UnGroup  and bring it back to normal."
+INC1130639,Incident,"AOFC-2020-08-0169 Showing As ""InProgress""",ELN,4 - Low,LIS-ELN-L2,Aruna Vytla,Timothy Woods,09/03/20,09/10/20,7,GLIMS system issue,"Issue: AOFC-2020-08-0169 Showing As ""InProgress""
+Status: Resolved
+Root Cause: Connection lost between public and private repositories.
+Corrective Actions Taken: After user confirmed date in experiment is safe, cleared experiment in private repository with admin team help."
+INC1126876,Incident,"UPLC 45090 Not Responding After Manual Reset, Plate Transfer Error",Plate transfer (UPLC 45090),3 - Moderate,FC Lab Operations L1,Heather Duong,Timothy Woods,08/28/20,09/04/20,7,System issue,"transfer plate was stuck in Sample organizer, FSE removed transfer plate from position 2, re-scan, check plate transfer for 4 plates: everything is working  as intended.  Followed up with Empower team to make sure no further communication or error messages. Followed up with end user and received ok to close the ticket. "
+INC1105704,Incident,"LES logbook for VKF CMMS ID 46571 is ""Under Maintenance""",VKF,3 - Moderate,FC Lab Operations L1,Camille Lagrimas,Timothy Woods,07/22/20,07/29/20,7,LabOps missing update in LES,Status updated in LES as requested.
+INC1104300,Incident,Please reset VKF logbook for CMMS ID: 46571,VKF,3 - Moderate,FC Lab Operations L1,Denise Trans,Timothy Woods,07/20/20,07/27/20,7,LabOps missing update in LES,"LES logbook set to available and then logbook was automatically updated to ""Titrant Standardization Required."""
+INC1065554,Incident,This INCIDENT has been replaced with SPARC TASK1129992.,,4 - Low,LIS-LES-L2,Spandana Kolli,Timothy Woods,05/12/20,05/19/20,7,,This INCIDENT has been replaced with SPARC TASK1129992.
+INC1011516,Incident,Water System CMMS ID 44537 Alarm is On,Water system,3 - Moderate,FC Lab Operations L1,Camille Lagrimas,Timothy Woods,02/04/20,02/11/20,7,LabOps ,"Cancelled system alert messages (""replace consumables in 10 days"") to put Milli-Q system back into ready mode. System available for use again. "
+INC1263540,Incident,pH meter CMMS ID 43774 - Accidentally created new standardization can't abort it.,pH meter,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Bindu Battineni,05/13/21,05/20/21,7,system issue,Suspended new standardization.  Screen unlocked.  User is able to use.
+TASK1259677,Catalog Task,Add/Remove Users from Group : Timothy Woods,,3 - Moderate,"Eng - Exchange (Email, Outlook, EVault)",,Timothy Woods,09/24/20,09/24/20,0,,
+REQ1002450,Request,Add/Remove Users from Group : Timothy Woods,,4 - Low,,,Timothy Woods,09/24/20,09/24/20,0,,
+REQ0980564,Request,General Library Information Services,,4 - Low,,,Timothy Woods,08/31/20,08/31/20,0,,
+TASK1234193,Catalog Task,Library Information Services - Access Request : Timothy Woods,,3 - Moderate,Library Information Services L2,Kimberly Koshiyama,Timothy Woods,08/31/20,08/31/20,0,,
+RITM0981358,Requested Item,General Library Information Services,,4 - Low,,,Timothy Woods,08/31/20,08/31/20,0,,
+REQ0944712,Request,LIS Service Request,,4 - Low,,,Timothy Woods,07/17/20,07/17/20,0,,
+INC1148809,Incident,I can not install Adobe software.,,3 - Moderate,Contact Center,Sagara Gunawardena,Shi Sa,10/07/20,10/14/20,7,IT service needed,"
+Thank you for contacting Enterprise Service Desk.
+
+"
+TASK1191796,Catalog Task,FC- Request to create user folders for Min Deng and Kristie Wong,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Timothy Woods,07/17/20,07/17/20,0,,
+RITM0945453,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,07/17/20,07/17/20,0,,
+RITM0901972,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,05/21/20,05/21/20,0,,
+TASK1139276,Catalog Task,FC: GMP Dissolution Report v3 - Need help with dissolution report in the GMP Empower training folder ,,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Timothy Woods,05/21/20,05/21/20,0,,
+REQ0901283,Request,LIS Service Request,,4 - Low,,,Timothy Woods,05/21/20,05/21/20,0,,
+REQ1183244,Request,LIS Service Request,,4 - Low,,,Bindu Battineni,05/10/21,05/10/21,0,,
+INC1134136,Incident,FC: User needed help to unlock the Reference Standard,,3 - Moderate,LIS-LES-L2,Spandana Kolli,Shi Sa,09/10/20,09/17/20,7,System issue,"Issue: Reference Standard aliquot was locked preventing user to Check back in to the system
+Root Cause: Unknown
+Resolution Notes: System Admin has been informed about the system lock on reference Standard Aliquot. System Admin unlocked the reference standard. User has been informed about the same and screenshot confirming the same has been attached for reference."
+INC1131061,Incident,Account locked out on both desk laptop and ELN laptop,,3 - Moderate,Contact Center,Brendan Mc Sweeney,Shi Sa,09/04/20,09/11/20,7,,
+TASK1408766,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Emily Fan,02/26/21,02/26/21,0,,
+REQ1194686,Request,Access Request via IDM,,4 - Low,,,Bindu Battineni,05/24/21,05/24/21,0,,
+RITM1198787,Requested Item,Access Request via IDM ( Gilead Laboratory Information Management System (GLIMS) ),,4 - Low,,,Bindu Battineni,05/24/21,05/24/21,0,,
+INC1063273,Incident,FC-instrument failure and automatic shut down - Communication Issue,Empower,4 - Low,LIS-EMPOWER -L2,Nadeem Mohammed,Shi Sa,05/07/20,05/14/20,7,System issue,Communication Issue. Fclace307 was rebooted and confirmed. User confirmed to connect with the instrument with no issues.
+INC1037774,Incident,The ELN instrument usage entry could not be transferred to the ELN in LES-IM,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Shi Sa,03/20/20,03/27/20,7,LES system issue,"Issue: The ELN instrument usage entry could not be transferred to the ELN in LES-IM
+Status: Resolved
+Root Cause: LES system down
+Corrective Actions Taken: Master incident has been created by L3 team to address these issues."
+INC1031480,Incident,Empower transfer data to GLIMS  failed,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Nicholas Venema,Shi Sa,03/10/20,03/17/20,7,GLIMS set,"INVESTIGATIVE ACTIONS: 
+checked the samples, empower export files and talked to customer
+ROOT CAUSE: 
+Strength Test is not compatible with empower transfer unless its paired with impurity testing
+CORRECTIVE ACTIONS: 
+Informed customer that they need to do manual entry for Strength tests when it is not paired with impurities and helped them convert it to a manual variation
+FINAL RESOLUTION: 
+Empower transfer data to GLIMS for strength test ,  Informed customer that they need to do manual entry for Strength tests when it is not paired with impurities and helped them convert it to a manual variation
+
+"
+TASK1288220,Catalog Task,P Drive Creation,,3 - Moderate,Contact Center,Mark Lee,Emily Fan,10/22/20,10/22/20,0,,
+REQ1122897,Request,LIS Service Request,,4 - Low,,,Emily Fan,02/26/21,02/26/21,0,,
+RITM1125074,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,02/26/21,02/26/21,0,,
+INC1023658,Incident,FC: CU Project creation for GS-4224,Empower,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Shi Sa,02/25/20,03/03/20,7,,This is a typical request for a new project so nothing is broken. Refer to TASK1056795 for resolution.
+TASK1191913,Catalog Task,R&D Project Access request.,,3 - Moderate,LIS-EMPOWER-L3,Mark Cooper,Poonam Kaur,07/17/20,07/17/20,0,,
+REQ1027752,Request,Access Request via IDM,,4 - Low,,,Emily Fan,10/23/20,10/23/20,0,,
+RITM1028657,Requested Item,Access Request via IDM ( Gilead Laboratory Information Management System (GLIMS) ),,4 - Low,,,Emily Fan,10/23/20,10/23/20,0,,
+TASK1191903,Catalog Task,LIS SR - pH Meter,,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Poonam Kaur,07/17/20,07/17/20,0,,
+RITM1027779,Requested Item,Data Storage - Volume/Drive Management (New Volume/Drive) ,,4 - Low,,,Emily Fan,10/22/20,10/22/20,0,,
+REQ1026875,Request,Data Storage - Volume/Drive Management (New Volume/Drive) ,,4 - Low,,,Emily Fan,10/22/20,10/22/20,0,,
+REQ0944830,Request,LIS Service Request,,4 - Low,,,Poonam Kaur,07/17/20,07/17/20,0,,
+TASK1091366,Catalog Task,FC: helped find the yearly training folder,,3 - Moderate,LIS-EMPOWER-L3,Mark Cooper,Poonam Kaur,03/31/20,03/31/20,0,,
+RITM0945571,Requested Item,LIS Service Request,,4 - Low,,,Poonam Kaur,07/17/20,07/17/20,0,,
+TASK1510386,Catalog Task,LIS SR - PSA (Mastersizer),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Kristie Wong,05/26/21,05/26/21,0,,
+REQ0944822,Request,LIS Service Request,,4 - Low,,,Poonam Kaur,07/17/20,07/17/20,0,,
+RITM0945563,Requested Item,LIS Service Request,,4 - Low,,,Poonam Kaur,07/17/20,07/17/20,0,,
+REQ0861378,Request,LIS Service Request,,4 - Low,,,Poonam Kaur,03/31/20,03/31/20,0,,
+RITM0862039,Requested Item,LIS Service Request,,4 - Low,,,Poonam Kaur,03/31/20,03/31/20,0,,
+INC1001749,Incident,[FC] Empower assay result data can not transfer to GLIMS,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Dale Lucyk,Shi Sa,01/17/20,01/24/20,7, system issue,"DESCRIPTION / SYNOPSIS OF THE ISSUE:
+""Empower assay result data can not transfer to GLIMS; after Empower result set data AOFC_2020_01_0064  transfer to GLIMS, The data transfer failed. GLIMS number are 3633843, 3633844, 3633847, 3633849, 3633853 and 3633857.""
+INVESTIGATIVE ACTIONS:
+Issue related to INC1001684 - these are the samples held in the LS_SAMPLES Table. Observed calculated results in parent Impurity tests had been triggered.
+ROOT CAUSE:  Stalled transfers.
+CORRECTIVE ACTIONS:
+LS_SAMPLES Table cleared per INC1001684. Advised user to null-out parent-test calculations and re-transfer.
+FINAL RESOLUTION:
+User re-transferred as discussed. Observed raw data successfully transferred to samples listed in request. User reported successful result entry."
+REQ1197103,Request,LIS Service Request,,4 - Low,,,Kristie Wong,05/26/21,05/26/21,0,,
+TASK1497146,Catalog Task,LIS SR - EMPOWER CDS (Chroma Data System)  FC Reset citrix profile and user confirmed full functionality and ability to sign off on result set.,,3 - Moderate,LIS-EMPOWER -L2,Don Upchurch,Kristie Wong,05/14/21,05/14/21,0,,
+RITM1201263,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,05/26/21,05/26/21,0,,
+INC0996027,Incident,SPARC incident INC0996027 has been replaced by SPARC TASK1009995,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Shi Sa,01/07/20,01/14/20,7,,SPARC incident INC0996027 has been replaced by SPARC TASK1009995 since this is not an incident
+INC1229109,Incident,Coulometric Karl Fischer instrument (CMMS ID: 44962) is currently having issue connecting to Lab X.,CKF,2 - High,FC Lab Operations L1,Nathaniel Gagaza,Emily Fan,03/08/21,03/15/21,7,Server maintain,The servers were worked on the past weekend and labx is connected with no issues.
+INC1271974,Incident,ID card don't work for the EV Chargers in the garage,,3 - Moderate,Contact Center,Manpreet Kaur,Poonam Kaur,06/01/21,06/08/21,7,,"i Have created RITM1205564, I am going to close this ticket.
+ "
+TASK1496886,Catalog Task,LIS SR - PSA (Mastersizer),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Kristie Wong,05/14/21,05/14/21,0,,
+RITM1191669,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,05/14/21,05/14/21,0,,
+REQ1187760,Request,LIS Service Request,,4 - Low,,,Kristie Wong,05/14/21,05/14/21,0,,
+INC1254590,Incident,GLIMS ID 3972283 Data didn't got transfer into GLIMS,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Poonam Kaur,04/26/21,05/03/21,7,Empower-GLIMS transfer usage,"DETAILS:  Empower to GLIMS transfer failed for CONTENT Analysis 
+ROOT CAUSE:  CONTENT Analysis does not allow Empower transfer
+CORRECTIVE ACTIONS: informed Requester that manual data entries in gLIMS are required
+FINAL RESOLUTION: Requester manually entered values into gLIMS  CONTENT test"
+INC1207739,Incident,P Drive in my laptop is not working,,3 - Moderate,Contact Center,Adam Cunningham,Poonam Kaur,01/28/21,02/04/21,7,,"P drive re mapped onto PC, closing ticket. "
+INC1200275,Incident,GLIMS Transferred unsuccessful,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Poonam Kaur,01/14/21,01/21/21,7,user knowledge/experience,"Description/Synopsis of the Issue: GLIMS Transferred unsuccessful
+Investigative Actions: Viewed error, viewed data transfer
+Root Cause: Main peak excluded from Empower data set.
+Corrective Actions: Provided instruction that the main peak is required for GLIMS to accept the data transfer, even in this sample where the strength/assay is not required.
+Final Resolution: Data can be retransferred with the main peak or manually entered in GLIMS."
+INC1192006,Incident,"Cannot enter ""Non detected"" for the release sample GLIMS ID 3888619",GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Poonam Kaur,12/24/20,12/31/20,7,GLIMS set,"Description/Synopsis of the Issue: Cannot enter ""Non detected"" for the release sample GLIMS ID 3888619
+Investigative Actions: Viewed sample, viewed spec, viewed method
+Root Cause: Method STM-5060 not enabled for lod/loq formatting in GLIMS.
+Corrective Actions: Requested MD team to update the method to enable formatting.
+Final Resolution: Method updated, GLIMS allows user to enter a numeric value and will automatically format Trace/Not Detected per the LOD/LOQ configured in the spec."
+REQ1187533,Request,LIS Service Request,,4 - Low,,,Kristie Wong,05/14/21,05/14/21,0,,
+RITM1191441,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,05/14/21,05/14/21,0,,
+RITM1157356,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,04/05/21,04/05/21,0,,
+REQ1154453,Request,LIS Service Request,,4 - Low,,,Kristie Wong,04/05/21,04/05/21,0,,
+REQ0967151,Request,LIS Service Request,,4 - Low,,,Kristie Wong,08/13/20,08/13/20,0,,
+RITM0967927,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,08/13/20,08/13/20,0,,
+REQ0948411,Request,LIS Service Request,,4 - Low,,,Kristie Wong,07/22/20,07/22/20,0,,
+RITM0949171,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,07/22/20,07/22/20,0,,
+RITM1003018,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,09/24/20,09/24/20,0,,
+REQ1002153,Request,LIS Service Request,,4 - Low,,,Althea Contreras,09/24/20,09/24/20,0,,
+RITM0876909,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,04/20/20,04/20/20,0,,
+REQ0876241,Request,LIS Service Request,,4 - Low,,,Althea Contreras,04/20/20,04/20/20,0,,
+REQ0874992,Request,LIS Service Request,,4 - Low,,,Althea Contreras,04/17/20,04/17/20,0,,
+RITM0875659,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,04/17/20,04/17/20,0,,
+REQ0813546,Request,LIS Service Request,,4 - Low,,,Althea Contreras,02/04/20,02/04/20,0,,
+RITM0814180,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,02/04/20,02/04/20,0,,
+TASK1450719,Catalog Task,FC: Can not log into ELN,,3 - Moderate,LIS-ELN-L2,Teju Bose,Kristie Wong,04/05/21,04/05/21,0,,
+TASK1218220,Catalog Task,LIS SR - PSA (Mastersizer),,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Kristie Wong,08/13/20,08/13/20,0,,
+TASK1196116,Catalog Task,FC: Communication issue - FCLACE362 - Reboot fixed Issue,,3 - Moderate,LIS-EMPOWER -L2,Karthik Amudala,Kristie Wong,07/22/20,07/22/20,0,,
+TASK1259359,Catalog Task, GMP-ED-FileCapture-FileRestore-PSA-40015,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Althea Contreras,09/24/20,09/24/20,0,,
+TASK1109492,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,04/20/20,04/20/20,0,,
+TASK1107982,Catalog Task,FC- Bulk transition of GMP experiments to pending review status,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Althea Contreras,04/17/20,04/17/20,0,,
+TASK1036410,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Althea Contreras,02/04/20,02/04/20,0,,
+INC1189376,Incident,FC GMP: Sensitivity calculation not showing up in the GMP_AreaNorm_Report v2,Empower,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Poonam Kaur,12/18/20,12/25/20,7,user mistake,"Sensitivity injections were injected as standards. The Sensitivity custom field only calculates for unknown sample type. After user updated the sample type for injections involved, the Sensitivity was calculated. This was not an issue with the report."
+INC1108747,Incident,FC: Not enough storage is available to process this demand - Citrix profile reset resolution,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Poonam Kaur,07/27/20,08/03/20,7,System issue,"Table space previously increased, but resetting user Citrix profile resolved the incident."
+INC1107249,Incident,FC: Not enough storage is available to process PDA data - Table space increase resolution,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Poonam Kaur,07/24/20,07/31/20,7,System issue,Table space was increased from 500 to 1000 MB and user confirmed successful process
+INC1098036,Incident,RSA : Not able to connect to vpn.gilead.com remotely,,3 - Moderate,Contact Center,Adrian Nunez,Poonam Kaur,07/09/20,07/16/20,7,,"Hi Poonam, 
+Thanks for talking to me earlier.  As per our conversation everything is working now with your RSA/VPN.  And as you confirmed,  I'll go ahead and close this ticket for you. 
+Please feel free to contact us again if you'll have other issues & inquiries. 
+Thank you and stay safe.
+Kind Regards,
+Adrian Nunez
+Enterprise Service Desk Team 
+
+
+"
+INC1096646,Incident,Unable to connect to the Gilead wifi.,,3 - Moderate,Contact Center,Sukhvinder Singh,Poonam Kaur,07/07/20,07/14/20,7,,"Hi Poonam, 
+As per our phone conversation, Gilead wi-fi network seems to be working fine on your laptop right now. I will now go ahead and close this ticket as discussed. If you face any further issues, please feel free to give us a call anytime.
+Thanks for contacting the ESD.
+Kind Regards,
+Sukhvinder Singh 
+Enterprise Service Desk Team"
+INC1077354,Incident,Centrifuge CMMS ID: 45636 not working ,Centrifuge,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Poonam Kaur,06/02/20,06/09/20,7,System issue,Error message cleared out.   Ran the system and found no error messages.  System working as intended.
+INC1047926,Incident,FC: UPLC 45090 is giving sample manager error - Shelf layout updated in Acquity console,Empower,4 - Low,LIS-EMPOWER -L2,Surajdeen Lasisi,Poonam Kaur,04/09/20,04/16/20,7,user knowledge/experience,"User advised to configure, scan sample organizer and store shelf layout in the Acquity console. Incident confirmed resolved, hence closing this ticket.  "
+INC1030955,Incident,FC-GMP-unable to access SDMS account,SDMS,4 - Low,LIS-SDMS-L2,Pavan Annam,Poonam Kaur,03/09/20,03/16/20,7,user knowledge/experience,"Issue Reported: FC-GMP-unable to access SDMS account.
+Root cause: User was attempting to login to the Admin tool which she don't have access to that.
+Resolution: Provided guidance to user to access right application. User confirmed to close the request.
+
+The reported issue has been resolved, Hence closing the ticket."
+INC1027514,Incident,Not authorized user in the learning management,,3 - Moderate,Contact Center,Enzo Vega,Poonam Kaur,03/03/20,03/10/20,7,,"Hi Poonam,
+As per our conversation, this is a duplicated ticket for INC1027498. I will now go ahead and close this ticket as discussed.
+Thanks for contacting the ESD.
+Kind Regards,
+Enzo Vega.
+Enterprise Service Desk Team."
+INC1030955,Incident,FC-GMP-unable to access SDMS account,SDMS,4 - Low,LIS-SDMS-L2,Pavan Annam,Poonam Kaur,03/09/20,03/16/20,7,user knowledge/experience,"Issue Reported: FC-GMP-unable to access SDMS account.
+Root cause: User was attempting to login to the Admin tool which she don't have access to that.
+Resolution: Provided guidance to user to access right application. User confirmed to close the request.
+
+The reported issue has been resolved, Hence closing the ticket."
+INC1027514,Incident,Not authorized user in the learning management,,3 - Moderate,Contact Center,Enzo Vega,Poonam Kaur,03/03/20,03/10/20,7,,"Hi Poonam,
+As per our conversation, this is a duplicated ticket for INC1027498. I will now go ahead and close this ticket as discussed.
+Thanks for contacting the ESD.
+Kind Regards,
+Enzo Vega.
+Enterprise Service Desk Team."
+TASK1108285,Catalog Task,LIS SR - PSA (Mastersizer),,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Chris Qiu,04/17/20,04/17/20,0,,
+REQ0875269,Request,LIS Service Request,,4 - Low,,,Chris Qiu,04/17/20,04/17/20,0,,
+RITM0875936,Requested Item,LIS Service Request,,4 - Low,,,Chris Qiu,04/17/20,04/17/20,0,,
+INC1238851,Incident,"FC: Frozen Empower, can not run sample set - Logged user out of Empower via Citrix Director to resolve incident",Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Kristie Wong,03/24/21,03/31/21,7,System issue,Logged user out of Empower in Citrix Director to unfreeze the account and incident resolved.
+INC1225499,Incident,Enclosure doors not locked,,2 - High,FC Lab Operations L1,Evan Zhang,Kristie Wong,03/02/21,03/09/21,7,System issue,End user was able to use the system by  realigning the door sensor near the edge.  I noted this issue with vendor to be looked at or fixed upon the upcoming visit  29MAR21. 
+INC1208428,Incident,FC: GMP - Communication Failure with Column Manager on UPLC_43267 - Reboot All,Empower,3 - Moderate,LIS-EMPOWER -L2,Karthik Amudala,Kristie Wong,01/29/21,02/05/21,7,System issue,"Issue is similar to FCLACEN357 - 43758_HUPLC.  Current system started flickering and communication was down for all the systems with its respective Lace.
+Resolution: All the systems were hard rebooted along with the Lace. 
+Note: PDA was not communicating with the Lace even after rebooting. Way around was to remove and add back the system. "
+INC1157421,Incident,Daily Check Failed for MilliQ Water CMMS 44543,Water system,3 - Moderate,FC Lab Operations L1,Camille Lagrimas,Kristie Wong,10/22/20,10/29/20,7,System issue,Set logbook back to Available for Use status in order for user to re-perform Daily Water Check. 
+INC1139409,Incident,Can not log into ELN app,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Kristie Wong,09/21/20,09/28/20,7,,"Issue: Can not log into ELN app
+Status: Resolved
+Root Cause: na
+Corrective Actions Taken: na, issue resoled by itself.
+"
+INC1113214,Incident,Can not weigh in ELN,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Kristie Wong,08/04/20,08/11/20,7,,"Issue: Can not weigh in ELN
+Status: Resolved
+Root Cause: na, latency issue
+Corrective Actions Taken: na, user updated saying issue resolved after logging out and logging into ELN."
+INC1070287,Incident,"FC-Software not responding selecting ""run samples""- Communication Issues",Empower,4 - Low,LIS-EMPOWER -L2,Nadeem Mohammed,Kristie Wong,05/20/20,05/27/20,7,System issue,"User was able to connect to Empower but when Sample Manager is launched, the application screen freezes. 
+User Citrix profile  was reset and Fclace305 was rebooted as per the request.
+User confirmed to access without any issues."
+INC1050707,Incident,Reviewed Experiment in my Private Repository,ELN,4 - Low,LIS-ELN-L2,Aruna Vytla,Kristie Wong,04/15/20,04/22/20,7,System issue,"Issue:  Reviewed Experiment in my Private Repository
+Status: Resolved
+Root Cause: Unknown
+Cause: Connection lost between public and private repositories
+Corrective Action Taken: Informed L3 team, and Raj from L3 team helped cleaning up user private repository, user confirmed that experiment is no longer in her private "
+INC1022769,Incident,[FC ] - Wrong number of signifcant figures in DSC results field ,DSC,4 - Low,LIS-GLIMS-L2,Syed Shafiuddin,Kristie Wong,02/24/20,03/02/20,7,GLIMS set,"Description: Wrong number of signifcant figures in DSC results field
+Investigative Actions: Looked at the specification setup and test method docs.
+Root Cause: Decimal places were set to 1 in the spec setup
+Corrective Action: Logged MD task TASK1055381 to update the decimal places to 0 as per STM-0071
+Final Resolution: Helped the user update the decimal places to 0 in the result entry window"
+INC0997469,Incident,"pH meter stuck in daily standardization run, can not do pH measurement run",pH meter,3 - Moderate,FC Lab Operations L1,Lauren Segges,Kristie Wong,01/09/20,01/16/20,7,,Task was initiated by other user and has been stopped. Instrument is working as should be.
+TASK1109400,Catalog Task,FC: Project creation - Urgent. GS7340_9036_2020_Q2 include CU subfolder,,3 - Moderate,LIS-EMPOWER-L3,Kenneth Clifford,Jingtao Wang,04/20/20,04/20/20,0,,
+REQ0876150,Request,LIS Service Request,,4 - Low,,,Jingtao Wang,04/20/20,04/20/20,0,,
+RITM0876817,Requested Item,LIS Service Request,,4 - Low,,,Jingtao Wang,04/20/20,04/20/20,0,,
+TASK1472206,Catalog Task,FC GMP: New folder for GS7340_9036_CU_2021_Q2,,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Jessica Trinh,04/23/21,04/23/21,0,,
+REQ1170348,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,04/23/21,04/23/21,0,,
+RITM1173678,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,04/23/21,04/23/21,0,,
+INC1168762,Incident,Need to replace empty Air compressed tank in B355-243180B,Waste,3 - Moderate,Contact Center,Sukhvinder Singh,Althea Contreras,11/11/20,11/18/20,7,,"Hi Althea, 
+As per our phone conversation, we have advised you of the right category in SPARC to log this request. I will now go ahead and close this ticket as discussed. If you face any further issues, please feel free to give us a call anytime.
+Thanks for contacting the ESD.
+Kind Regards,
+Sukhvinder Singh 
+Enterprise Service Desk Team"
+TASK1308367,Catalog Task,"FC GMP: Request to add a ""GS4224_CU_2020_Q4"" folder to ""2020_Q4\GMP_2020_Q4\FC_2020_Q4\GS4224_2020_Q4"" ",,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Jessica Trinh,11/11/20,11/11/20,0,,
+RITM1044664,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,11/11/20,11/11/20,0,,
+REQ1043744,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,11/11/20,11/11/20,0,,
+TASK1259359,Catalog Task, GMP-ED-FileCapture-FileRestore-PSA-40015,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Althea Contreras,09/24/20,09/24/20,0,,
+RITM1003018,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,09/24/20,09/24/20,0,,
+REQ1002153,Request,LIS Service Request,,4 - Low,,,Althea Contreras,09/24/20,09/24/20,0,,
+TASK1109492,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,04/20/20,04/20/20,0,,
+REQ0971309,Request,Lab Services - Glassware-AO (AO GMP Glassware),,4 - Low,,,Jessica Trinh,08/19/20,08/19/20,0,,
+RITM0972090,Requested Item,Lab Services - Glassware-AO (AO GMP Glassware),,4 - Low,,,Jessica Trinh,08/19/20,08/19/20,0,,
+TASK1107982,Catalog Task,FC- Bulk transition of GMP experiments to pending review status,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Althea Contreras,04/17/20,04/17/20,0,,
+RITM0876909,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,04/20/20,04/20/20,0,,
+REQ0876241,Request,LIS Service Request,,4 - Low,,,Althea Contreras,04/20/20,04/20/20,0,,
+INC1083460,Incident,FC-GMP-Empower PDA Detected Error - UPLC 45090 (Please do not tag out if not necessary) -Fclace362,Empower,4 - Low,LIS-EMPOWER -L2,Nadeem Mohammed,Althea Contreras,06/12/20,06/19/20,7,System issue,Communication issues with PDA. Fclace362 rebooted and user confirmed to access PDA with no issues.
+TASK1036410,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Althea Contreras,02/04/20,02/04/20,0,,
+REQ0874992,Request,LIS Service Request,,4 - Low,,,Althea Contreras,04/17/20,04/17/20,0,,
+RITM0875659,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,04/17/20,04/17/20,0,,
+REQ0813546,Request,LIS Service Request,,4 - Low,,,Althea Contreras,02/04/20,02/04/20,0,,
+RITM0814180,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,02/04/20,02/04/20,0,,
+TASK1478703,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Stephanie Ho,04/29/21,04/29/21,0,,
+REQ1174893,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,04/29/21,04/29/21,0,,
+RITM1178406,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,04/29/21,04/29/21,0,,
+TASK1360911,Catalog Task,FC: LC CMMS ID 44064 communication failure - transferred to and Closed in INC1199777,,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Stephanie Ho,01/13/21,01/13/21,0,,
+REQ1086203,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,01/13/21,01/13/21,0,,
+RITM1087616,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,01/13/21,01/13/21,0,,
+TASK1329103,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Stephanie Ho,12/04/20,12/04/20,0,,
+REQ1061392,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,12/04/20,12/04/20,0,,
+RITM1062324,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,12/04/20,12/04/20,0,,
+TASK1290476,Catalog Task,FC: Request for access to Column management on LES,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Stephanie Ho,10/26/20,10/26/20,0,,
+REQ1028796,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/26/20,10/26/20,0,,
+RITM1029701,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/26/20,10/26/20,0,,
+TASK1281080,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Stephanie Ho,10/15/20,10/15/20,0,,
+REQ1020550,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/15/20,10/15/20,0,,
+RITM1021449,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/15/20,10/15/20,0,,
+TASK1279821,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,10/14/20,10/14/20,0,,
+REQ1019469,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/14/20,10/14/20,0,,
+RITM1020368,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/14/20,10/14/20,0,,
+INC1068680,Incident,pH meter LabX won't Open (See log in error screen shot),pH meter,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,05/18/20,05/25/20,7,System issue,There was a server issue in the back-end after patching. 
+INC1043832,Incident,"FC: Empower Error Message, Chromatogram showing as incomplete during sample set run. - No issues, all data available",Empower,4 - Low,LIS-EMPOWER -L2,Suganya Sundararajan,Althea Contreras,04/01/20,04/08/20,7,,Explained the user why she experienced data incomplete. the user is able to see all the data. Hence resolving this ticket.
+INC1260776,Incident,Specification is incorrect,GLIMS,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Chris Qiu,05/07/21,05/14/21,7,GLIMS set,"DETAILS:  Requester believes that incorrect Specification was assigned to Sample 3977047 and  wanted to change that
+INVESTIGATIVE ACTIONS:  TASK was raised for MD team to update spec - MD confirmed that Spec assigned to the Sample is correct and no Specs updates are needed 
+CORRECTIVE ACTIONS:  Zoomed with Requester's team  to demo how to modify Sample's Metadata (Full Modify Samples)
+FINAL RESOLUTION:  Sample has been reassigned to SPEC-M0441 "
+INC1246604,Incident,unable to open ELN,ELN,3 - Moderate,LIS-ELN-L2,Midhun Krothapalli,Chris Qiu,04/09/21,04/16/21,7,System issue,"Issue: unable to open ELN
+Status: Resolved
+Root cause: Hanging session
+Corrective actions taken: Logged off the user from the previous session and user was able to login to ELN with the new session"
+INC1189288,Incident,Unable to enter results into GLIMS,GLIMS,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Chris Qiu,12/18/20,12/25/20,7,GLIMS set,"DESCRIPTION:  Set of results (for 37C) is missing from Disintegration Test
+ROOT CAUSE:  Specification version on listed Samples is outdated 
+CORRECTIVE ACTIONS:  SPEC-M0563 was updated to set the variation to two temperatures for disintegration - TASK1342273;  instruction provided for how to update impacted Samples with new Analysis Variation 
+FINAL RESOLUTION:  Requester was able to assign correct Analysis Variation and enter results"
+INC1181264,Incident,Unable to transfer data from Empower to GLIMS samples,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Chris Qiu,12/04/20,12/11/20,7,System issue,"Description/Synopsis of the Issue: Unable to transfer data from Empower to GLIMS samples
+Investigative Actions: Viewed LS_samples, viewed background service
+Root Cause: Dead process in background service paused data processing. Sample 3865701 was calculated by user before transfer was complete.
+Corrective Actions: Viewed background service to restart dead process. Found sample 3865701 didn't transfer due to user calculation after transfer was started but before dead process was restarted.
+Final Resolution: 4 samples completed automatically after restarting dead process. 1 sample required re-transfer due to user calculation before services restarted."
+INC1114674,Incident,Computer super laggy,,3 - Moderate,Contact Center,Thilina Wijewardana,Chris Qiu,08/06/20,08/13/20,7,,"Hi Chris,
+This is regarding your issue with low speed. After I ran a disk cleanup, refreshed dns, ran a gpupdate and rebooted the machine, the issue got resolved. As you confirmed, I will close this SPARC ticket now. Should you require any further assistance, feel free to contact me or service desk team.
+Many Thanks
+Thilina Wijewardana 
+Enterprise Service Desk Team "
+INC1060875,Incident,FC: unable to connect to database - Database back online,Empower,2 - High,LIS-EMPOWER -L2,Suganya Sundararajan,Chris Qiu,05/04/20,05/11/20,7,,"Close notes copied from Parent Incident: Issue: VMs running on the ESXi host sjgsvempprdg02 went to unresponsive state and users were not able to access the application.
+Workaround: Migration of VM's below from ESXi Hosts sjgsvempprdg02 to sjgsvempprdg01 has fixed the issue and user confirmed the same
+sjemp3odbprdg01
+sjemp3odbprdg02
+sjfsnappprdn01
+Problem Record : PRB0003722 has been created for this incident to work through the RCA."
+INC1047898,Incident,Vibration Meter/Transducer CMMS ID 43788/43789 not working,Vibration meter,4 - Low,FC Lab Operations L1,Pooja Pandya,Chris Qiu,04/09/20,04/16/20,7,System issue,I removed the vibration meter from the lab. It will be replaced once a GMP Vibration meter is available.
+INC1001684,Incident,[FC] Unable to transfer result set to GLIMS,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Dale Lucyk,Chris Qiu,01/17/20,01/24/20,7,System issue,"
+DESCRIPTION / SYNOPSIS OF THE ISSUE:
+""Unable to transfer result set to GLIMS; I am having trouble transferring the result set 1421 (AOFC_2020_01_0011) in empower folder 2020_Q1\GMP_2020_Q1\FC_2020_Q1\GS5290_2020_Q1 to GLIMS for samples 3634459 and 3634459.""
+INVESTIGATIVE ACTIONS:
+Ticket transferred from Empower team. Empower Support had observed files for ImpurityEmpowerWW1438 holding in ..\W_W directory (not moved to Archive sub-directory). Checked LS_SAMPLES Table - observed several records contained.
+ROOT CAUSE:
+Stalled transfers.
+CORRECTIVE ACTIONS:
+Requested Admins to clear LS_SAMPLES Table and restart BG processes. Done (A.McMahon).
+FINAL RESOLUTION:
+Pending transfer processed. Observed raw data successfully transferred to samples 3634459 and 3634461. User reported successful result entry."
+TASK1272838,Catalog Task,FC- Unable to transition experiment,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Stephanie Ho,10/07/20,10/07/20,0,,
+REQ1013589,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/07/20,10/07/20,0,,
+RITM1014478,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/07/20,10/07/20,0,,
+INC1269850,Incident,"FC: UPLC 45080 run window stuck on ""instrument method setting up"" for 2hrs,, can't start run. Urgent help needed! - User Citrix reset resolution",Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Jingtao Wang,05/26/21,06/02/21,7,System issue,User Citrix profile was reset to resolve incident
+INC1230961,Incident,FC-cant review chromatograms in GMP folder GS4224,Empower,3 - Moderate,LIS-EMPOWER -L2,Nadeem Mohammed,Jingtao Wang,03/10/21,03/17/21,7,System issue,"The chromatograms were visible and user confirmed to see it in review window.
+Closing this ticket as per the confirmation from user."
+INC1214709,Incident,data transfer from Empower to GLIMS failed for sample 3904435 residual solvents test,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Jingtao Wang,02/10/21,02/17/21,7,System issue,"Description/Synopsis of the Issue: data transfer from Empower to GLIMS failed for sample 3904435 residual solvents test
+Investigative Actions: Viewed labstation folder, viewed GLIMS background services
+Root Cause: background services not running
+Corrective Actions: services re-started
+Final Resolution: pending data transfers completed automatically."
+TASK1272638,Catalog Task,[FC] - Request Access to the GLIMS Training Environment for Emily Fan,,3 - Moderate,LIS-GLIMS-L2,Mark Borbe,Stephanie Ho,10/07/20,10/07/20,0,,
+REQ1013406,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/07/20,10/07/20,0,,
+RITM1014295,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/07/20,10/07/20,0,,
+TASK1226043,Catalog Task,Request access to the training environment for Dawit Berhe,,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,08/21/20,08/21/20,0,,
+RITM0974514,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+REQ0973727,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+INC1187117,Incident,sample 3874990 and 3874991 data transfer from Empower to GLIMS failed,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Jingtao Wang,12/15/20,12/22/20,7,System issue,"Description/Synopsis of the Issue: sample 3874990 and 3874991 data transfer from Empower to GLIMS failed
+Investigative Actions: Viewed LS_Samples
+Root Cause: Transfer was stuck in queue behind the transfer in INC1187117
+Corrective Actions: Requested admin team to clear ls_samples queue and reset LS_IMP service
+Final Resolution: Transfer completed successfully."
+INC1164194,Incident,ELN AOFC-2020-10-0225 was put in pending review status without reviewer name added,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Jingtao Wang,11/03/20,11/10/20,7,System issue,"Issue: ELN AOFC-2020-10-0225 was put in pending review status without reviewer name added
+Status: Resolved
+Root Cause: na
+Corrective Actions Taken: na, Requested user to use request review option to send experiment for review to a particular reviewer."
+INC1052927,Incident,help needed: create Empower project folders for FTC/TAF release testing,Empower,2 - High,LIS-EMPOWER-L3,Kenneth Clifford,Jingtao Wang,04/20/20,04/27/20,7,,Duplicate: TASK1109400
+INC1013763,Incident,Empower to GLIMS data transfer failed for sample 3652809,GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Jingtao Wang,02/07/20,02/14/20,7,GLIMS set,"Description/Synopsis of the Issue: Empower to GLIMS data transfer failed for sample 3652809
+Investigative Actions: I checked the LS_Samples table (blank) checked the labstation CU folder (files still there) checked the samples in GLIMS (one had data the other didn't) and I checked the background server (no pop-up).
+Root Cause: The lot for this sample had version 0 on the lot_sampling_point table 
+Corrective Actions: Reset background scheduler, verified data transfer completed
+Final Resolution: Data transfer completed."
+INC1007340,Incident,"FC: urgent help needed: to create a GMP CU folder under project GS-5290_2020_Q1,",Empower,2 - High,LIS-EMPOWER-L3,Mark Cooper,Jingtao Wang,01/28/20,02/04/20,7,,Refer to TASK1029228. Request was made for user/creation of project is documented under that task.
+INC1168762,Incident,Need to replace empty Air compressed tank in B355-243180B,,3 - Moderate,Contact Center,Sukhvinder Singh,Althea Contreras,11/11/20,11/18/20,7,,"Hi Althea, 
+As per our phone conversation, we have advised you of the right category in SPARC to log this request. I will now go ahead and close this ticket as discussed. If you face any further issues, please feel free to give us a call anytime.
+Thanks for contacting the ESD.
+Kind Regards,
+Sukhvinder Singh 
+Enterprise Service Desk Team"
+INC1156996,Incident, Limited to 40 minutes for setting up meetings, Zoom,4 - Low,Ops - Zoom,Chandan Kumar,Jessica Trinh,10/21/20,10/28/20,7,,Changed the user type from Basic to Licensed.  
+TASK1226041,Catalog Task,Request access to the GLIMS Training system for Wenchun Lin,,3 - Moderate,LIS-GLIMS-L2,Mark Borbe,Stephanie Ho,08/21/20,08/21/20,0,,
+REQ0973725,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+RITM0974512,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+INC1083460,Incident,FC-GMP-Empower PDA Detected Error - UPLC 45090 (Please do not tag out if not necessary) -Fclace362,Empower,4 - Low,LIS-EMPOWER -L2,Nadeem Mohammed,Althea Contreras,06/12/20,06/19/20,7,,Communication issues with PDA. Fclace362 rebooted and user confirmed to access PDA with no issues.
+TASK1226038,Catalog Task,Request access to the GLIMS Training system for Ian,,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,08/21/20,08/21/20,0,,
+RITM0974509,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+REQ0973722,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,08/21/20,08/21/20,0,,
+INC1068680,Incident,pH meter LabX won't Open (See log in error screen shot),pH meter,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,05/18/20,05/25/20,7,System issue,There was a server issue in the back-end after patching. 
+INC1060844,Incident,FC-Cannot connect to Empower,Empower,3 - Moderate,LIS-EMPOWER -L2,Nadeem Mohammed,Jessica Trinh,05/04/20,05/11/20,7,,This has been resolved. Refer to master incident INC1060846
+INC1058627,Incident,Request to transition AOFC-2018-05-0051 to pending review,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Jessica Trinh,04/29/20,05/06/20,7,,Opened TASK1118509 as this is not a incident.
+INC1057792,Incident,Cannot open Data Viewer for XRPD CMMS ID 43254,XRPD,3 - Moderate,FC Lab Operations L1,Ilgiz Yamilov,Jessica Trinh,04/28/20,05/05/20,7,,"Hi Ilgiz, 
+I am able to log into Data Viewer now. You may close the ticket.
+Thanks for your help!
+essica Trinh
+650-522-5174
+"
+INC1043832,Incident,"FC: Empower Error Message, Chromatogram showing as incomplete during sample set run. - No issues, all data available",Empower,4 - Low,LIS-EMPOWER -L2,Suganya Sundararajan,Althea Contreras,04/01/20,04/08/20,7,user knowledge/experience,Explained the user why she experienced data incomplete. the user is able to see all the data. Hence resolving this ticket.
+INC1042900,Incident,Request to transition AOFC-2020-03-0190 to pending review,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Jessica Trinh,03/31/20,04/07/20,7,,Opened TASK1091743 as this is not a incident.
+,,,,,,,,,,0,,
+TASK1221744,Catalog Task,ETC GFLEX,,3 - Moderate,IMAC - Foster City,David Nguyen,Stephanie Ho,08/18/20,08/18/20,0,,
+REQ0970148,Request,"Computers, Accessories and Software",,4 - Low,,,Stephanie Ho,08/18/20,08/18/20,0,,
+RITM0970927,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Stephanie Ho,08/18/20,08/18/20,0,,
+INC1032192,Incident,Empower result set ID 6947 not transferring to GLIMS for GLIMS ID 3667790,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Nicholas Venema,Jessica Trinh,03/11/20,03/18/20,7,user mistake,"DESCRIPTION:  
+Empower result set ID 6947 (GS5734_2020_Q1) not transferring to GLIMS for GLIMS ID 3667790
+INVESTIGATIVE ACTIONS: 
+checked the empower exported files, talked to customer, checked the services for transfers and talked to empower team
+ROOT CAUSE: 
+Empower processing method was missing a peak label so the export method was generating blank files
+CORRECTIVE ACTIONS: 
+talked to empower team and then worked with user to update the processing method to add the missing peak label.
+FINAL RESOLUTION: 
+Empower result set ID 6947 not transferring to GLIMS for GLIMS ID 3667790, talked to empower team and then worked with user to update the processing method to add the missing peak label., data was reprocessed and export worked successfully.
+"
+TASK1098370,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Stephanie Ho,04/07/20,04/07/20,0,,
+REQ0867235,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,04/07/20,04/07/20,0,,
+RITM0867898,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,04/07/20,04/07/20,0,,
+TASK1036528,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Hammi Messate,Stephanie Ho,02/04/20,02/04/20,0,,
+REQ0813659,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,02/04/20,02/04/20,0,,
+RITM0814293,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,02/04/20,02/04/20,0,,
+TASK1338602,Catalog Task,FC GMP: Copy sample set to Training folder,,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Yan Wang,12/15/20,12/15/20,0,,
+REQ1069463,Request,LIS Service Request,,4 - Low,,,Yan Wang,12/15/20,12/15/20,0,,
+RITM1070423,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,12/15/20,12/15/20,0,,
+INC1031094,Incident,Assay %purity results differ after reprocessing,Empower,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Jessica Trinh,03/09/20,03/16/20,7,user mistake,"The clear calibration line preceeding the processing for the set of bracketing standards was set as ""Don't Process or Report"" so the calibration was not cleared corrected. Processing was changed to Normal for the Clear Calibration line and the results match the original processing. "
+TASK1146206,Catalog Task,FC: Project creation for GMP B/F/TAF ,,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Yan Wang,05/29/20,05/29/20,0,,
+REQ0907173,Request,LIS Service Request,,4 - Low,,,Yan Wang,05/29/20,05/29/20,0,,
+RITM0907873,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,05/29/20,05/29/20,0,,
+TASK1058861,Catalog Task,Fc-Access Req,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Yan Wang,02/27/20,02/27/20,0,,
+REQ0833491,Request,LIS Service Request,,4 - Low,,,Yan Wang,02/27/20,02/27/20,0,,
+RITM0834134,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,02/27/20,02/27/20,0,,
+INC0993393,Incident,Reports attached in ELN via SDMS cannot be located,ELN,4 - Low,LIS-SDMS-L2,Arokia Raj,Jessica Trinh,01/02/20,01/09/20,7,,"New View was created with the following steps:
+1. Renamed the existing View.
+     a. changed the Year in Date Tag Value.
+2. Created New View.
+      a. changed the Year in Date Tag Value."
+INC1254656,Incident,Stability results GLIMS Transfer Was not Successful,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Stephanie Ho,04/26/21,05/03/21,7,user knowledge/experience,"DETAILS:  Empower to GLIMS transfer failed for Enantiomeric_HPLC analysis 
+ROOT CAUSE:  Enantiomeric_HPLC does not allow Empower transfer
+CORRECTIVE ACTIONS: informed Requester that manual data entries in gLIMS are required
+FINAL RESOLUTION: Requester manually entered values into gLIMS  Enantiomeric_HPLC test"
+INC1190488,Incident,"All GMP pH Meters in Building 355, 4th Floor are having Connectivity Issues",pH meter,2 - High,FC Lab Operations L1,Vinod Veerapuram,Stephanie Ho,12/21/20,12/28/20,7,System issue,"Issue: All GMP pH Meters in Building 355, 4th Floor are having Connectivity Issues
+Cause: change on main connection (servers)
+Corrective Action Taken: After the server patches they needed a restart for establishing communication again. pH meters are now communicating as expected"
+INC1078106,Incident,PC : Need access to view partner documents,Gvault,3 - Moderate,GVault L2,Shalu Shalu,Stephanie Ho,06/03/20,06/10/20,7,,"Provided information to user to raise an IDM request for  ""GVault_AO User """
+INC1035097,Incident,G Date Test Started/ G Date Test Completed and Test Location Disappeared ,GLIMS,4 - Low,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,03/16/20,03/23/20,7,user knowledge/experience,"Description/Synopsis of the Issue: G Date Test Started/ G Date Test Completed and Test Location Disappeared 
+Investigative Actions: Viewed audit history
+Root Cause: When pH and Appearance results were entered, only the pH test properties were entered.
+Corrective Actions: Informed user that test properties must be entered for each test.
+Final Resolution: Appearance test properties were entered and reviewed."
+INC1000548,Incident,SDMS will not save reports on new Sotax DT50 Tablet Disintegrator,Sdms,4 - Low,LIS-SDMS-L2,Arokia Raj,Stephanie Ho,01/15/20,01/22/20,7,,"Hi Arokia,
+That is so strange. I tried once yesterday and once earlier today.
+It is appearing now. Thank you and sorry about that. Please close the ticket.
+I hope you have a nice night.
+Thank you,
+Stephanie
+"
+INC1024451,Incident,FC: result sets sign off issue - Multiple sessions prevented signoff so reset Citirx profile,Empower,3 - Moderate,LIS-EMPOWER -L2,Suganya Sundararajan,Yan Wang,02/26/20,03/04/20,7,user knowledge/experience,"The user logged in multiple places which was preventing the user from signing off the results. After resetting the profile, the user is able to sign off the results. Hence resolving this ticket. "
+INC1018535,Incident,FC: Empower Reviewer Role - Data process audit trail observation,Empower,4 - Low,LIS-EMPOWER -L2,Karthik Amudala,Yan Wang,02/17/20,02/24/20,7,user knowledge/experience,user was explained as to why the user sees Reviewer_2 role.
+INC1001202,Incident,"USR-PO-Other: Order item didn't show after search ""go"" - receive item issue",,3 - Moderate,Procure to Pay (PTP) L1,Harish Naviri,Yan Wang,01/16/20,01/23/20,7,,"Issue: User was not able to receive the PO
+Root cause: PO ship to location was inventory and user was not having the access 
+Resolution: Desktop receiving group will be able to receive the PO in inventory"
+INC1252493,Incident,"FC- error found in ELN AOFC-2021-02-0067, need  transition back to InProgress to add a collaborator to make correction",ELN,4 - Low,LIS-ELN-L2,Aruna Vytla,Min Deng,04/21/21,04/28/21,7,,
+INC1180829,Incident,Empower result set sign off level 2 Reason Wrong,Empower,4 - Low,LIS-EMPOWER-L3,Ken Vandenoever,Min Deng,12/03/20,12/10/20,7,,
+INC1135894,Incident,request access for GTrack Lab event owner roll to submit a lab event,Gtrack,3 - Moderate,GTrack L2,Sivakumar Thindivanam,Min Deng,09/14/20,09/21/20,7,,
+TASK1221823,Catalog Task,FC: GMP_Reviewer role access - Submitted via IDM 137875,,3 - Moderate,LIS-EMPOWER -L2,Karthik Amudala,Min Deng,08/18/20,08/18/20,0,,
+REQ0970225,Request,LIS Service Request,,4 - Low,,,Min Deng,08/18/20,08/18/20,0,,
+RITM0971004,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,08/18/20,08/18/20,0,,
+INC1070127,Incident,I created a GLIMS shortcut on Citrix desktop but for unknown reason it's wrong. ,GLIMS,4 - Low,"Ops - Gilead App Delivery Infra (GADI,Citrix)",Robinson Arulgnanaraj,Min Deng,05/20/20,05/27/20,7,,
+INC1051803,Incident,"Waters UPLC (ID 44064) column connection Line is broken, need a new one",UPLC (44064),4 - Low,FC Lab Operations L1,Madhuri Nagadi,Min Deng,04/17/20,04/24/20,7,,
+INC1049935,Incident,New - UPLC (CMMS 44060) column connection line is broken,UPLC (44060),4 - Low,Contact Center,Adam Sheehan,Min Deng,04/14/20,04/21/20,7,,
+INC1237522,Incident,WageWorks (Wellbeing/FSA) on My G.Benefits page not loading,,4 - Low,Human Resources L1,Dharani Murugesh,Timothy Woods,03/22/21,03/30/21,8,"Internet resourse incorrect, should use Edge to open page",The site worked in Edge as suggested. The user confirmed that the isssue is resolved and we can close this ticket.Hence closing this ticket.
+TASK1077150,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Min Deng,03/16/20,03/16/20,0,,
+REQ0867322,Request,Access Request via IDM,,4 - Low,,,Min Deng,04/07/20,04/07/20,0,,
+RITM0867985,Requested Item,Access Request via IDM ( Gilead Laboratory Information Management System (GLIMS) ),,4 - Low,,,Min Deng,04/07/20,04/07/20,0,,
+TASK1049540,Catalog Task,RSA/VPN Request : Min Deng,,3 - Moderate,Contact Center,Abishake Peiris,Min Deng,02/18/20,02/18/20,0,,
+REQ0849379,Request,LIS Service Request,,4 - Low,,,Min Deng,03/16/20,03/16/20,0,,
+RITM0850034,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,03/16/20,03/16/20,0,,
+TASK1450551,Catalog Task,FC- Unable to change experiment type AOFC-2021-04-0012,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Cinthya Susanibar Tinoco,04/05/21,04/05/21,0,,
+REQ0825336,Request,RSA/VPN Request : Min Deng,,4 - Low,,,Min Deng,02/18/20,02/18/20,0,,
+RITM0825979,Requested Item,RSA/VPN Request : Min Deng,,4 - Low,,,Min Deng,02/18/20,02/18/20,0,,
+TASK1469399,Catalog Task,QMS Requests - GTrack (Other),,3 - Moderate,GTrack L2,Kalyan Arepalli,Emily Fan,04/21/21,04/22/21,1,,
+RITM1157192,Requested Item,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,04/05/21,04/05/21,0,,
+REQ1154289,Request,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,04/05/21,04/05/21,0,,
+INC1225678,Incident,Battery is low on vibration meter CMMS ID 42830,Vibration meter,4 - Low,FC Lab Operations L1,Pooja Pandya,Timothy Woods,03/02/21,03/10/21,8,,Swapped vibration meter with another one
+INC1148398,Incident,Approval of NSP 283 not showing up,GLIMS,3 - Moderate,LIS-GLIMS-L2,Mark Borbe,Timothy Woods,10/06/20,10/14/20,8,system issue,"Investigative Actions: Checked and verified that Jean Tan is a member of the LIST: EMAIL_FC_NSP in GLIMS. Checked the status of NSP 283 and its ready for approval but did not route for approval.
+Root Cause:  Unable to reproduce the issue in GLIMS Support Environment. 
+Corrective Actions:  Requested the user to set the NSP 283 to set for approval and it routed successfully which Jean Tan approved.
+Final Resolution: Worked with Syed on this issue and we were able to determine a resolution for the user to route the NSP 283 ready for approval and was a success for it to be approved by Jean Tan. "
+INC1251238,Incident,"All data met specification acceptance, but GLIMS show the impurity (OOX) red color.",GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Shi Sa,04/19/21,04/27/21,8,GLIMS set,"Investigative Actions: Viewed sample, viewed specification
+Root Cause: For unspecified impurities, action limit evaluation uses '>=' as default comparison when no comparison rule is given in the GLIMS product_spec.
+Corrective Actions: Code fix logged in LIMS-4193, as a workaround requested MD team to update specification action limit for unspecified impurities to include comparison as '>0.15'
+Final Resolution: false OOA investigation closed, sample updated to new spec version, OOC test recalculated from Empower data and review completed.
+"
+TASK1200554,Catalog Task,FC- Experiment stuck in Private,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Kristie Wong,07/27/20,07/28/20,1,,
+REQ1168357,Request,QMS Requests - GTrack (Other),,4 - Low,,,Emily Fan,04/21/21,04/22/21,1,,
+RITM1171627,Requested Item,QMS Requests - GTrack (Other),,4 - Low,,,Emily Fan,04/21/21,04/22/21,1,,
+INC1195931,Incident,can't save method version and not calculated unknown result into GLIMS,GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Shi Sa,01/06/21,01/14/21,8,user knowledge/experience,"Description/Synopsis of the Issue:
+1) When selected method version 1 for STM-5061, Can not save it.
+2) not calculate unknow residual solvent, show yellow blank, should be blue.
+3) Unspecified RRT not included in the Summary analysis
+Investigative Actions: Viewed sample, Called analyst
+Root Cause: 
+1) When using enter method version for 'all' tests option, DCF analysis is listed with no method assigned. Assigned test methods window can't be saved with a blank method.
+2) Unknown ICH is a manual compliance result, meant to record conformance.
+3)Unspecified solvents must be manually added to the summary with the 'Add additional residual solvent' result.
+Corrective Actions: 
+1)Provided direction to enter method version for only one test at a time using the 'Assign method version for Current Test' menu
+2)Provided direction to use Unknown ICH to record conformance to ICH PDE limits.
+3)Provided direction to use Add additional Residual Solvent result. Logged documentation update request to add directions to training/BED in GVault
+Final Resolution: Data entered and saved in GLIMS."
+INC1147732,Incident,"UPLC Sample Organizer air pump time out for FC 43267.  FC  Reset Sample Manager issue not reproduced, confirmed function with user",Empower,3 - Moderate,LIS-EMPOWER -L2,Don Upchurch,Shi Sa,10/05/20,10/13/20,8,System issue,User reports error with Sample Manager.  Reset unit and error not reproduced. Confirmed renewed functionality with user
+INC1040667,Incident,[FC] - GLIMS calculation fail for dissolution result of GS-9674 ,GLIMS,3 - Moderate,LIS-GLIMS-L2,Piaras O'Murchu,Shi Sa,03/26/20,04/03/20,8,user knowledge/experience,"DETAILS:
+Project GS-9674, GLIMS ID: 3683219, 3683223. When calculated the dissolution results, DISSOL_SUM_1AP[Dissolution Profile]1 is still empty.
+INVESTIGATIVE ACTIONS:
+Reproduced issue, provided workaround.
+ROOT CAUSE:
+Calculation components do not complete using the Result Entry VWF link on the Stab_Analyst dashboard.
+CORRECTIVE ACTIONS:
+Informed to use the result entry toolbar link rather than the VWF link and calculate. Shi Sa did this and was able to complete Disso P data entry.
+FINAL RESOLUTION:
+Enhancement logged and will be handled via process outside of SPARC."
+INC1031089,Incident,Empower (AOFC_2020_02_0153 for GS-4224) transfer data to GLIMS  failed ,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Nicholas Venema,Shi Sa,03/09/20,03/17/20,8,System issue,"DESCRIPTION:  
+When I transfer data from Empower folder (2020_Q1\GMP_2020_Q1\FC_2020_Q1\GS4224_2020_Q1\GS4224_CU_2020_Q1) to GLIMS for (36666553, 36666534, 3663248) only 3666553 transfer completely another transfer fialed.
+INVESTIGATIVE ACTIONS: 
+checked the empower export file, checked the samples, checked services for empower transfers, talked to customer
+ROOT CAUSE: 
+empower transfer stopped part way through
+CORRECTIVE ACTIONS: 
+worked with customer to export the remaining 2 samples from empower to GLIMS
+FINAL RESOLUTION: 
+empower transfer failed for 2 samples but worked for 1 sample for CU fpr GS4224, worked with customer to export the remaining 2 samples from empower to GLIMS
+"
+INC1011573,Incident,"Balance transferred 0.0 mg to ELN ""AOFC-2020-02-0006""",ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Shi Sa,02/04/20,02/12/20,8,user mistake,"Issue: Balance transferred 0.0 mg to ELN ""AOFC-2020-02-0006""
+Status: Resolved
+Root Cause: na, user tried capturing weights without adding balance.
+Corrective Actions: na, asked user to add new row to capture weights. "
+TASK1076737,Catalog Task,QMS Requests - GTrack (User Access or Role Change Assistance),,3 - Moderate,GTrack L2,Sajal Garg,Kristie Wong,03/16/20,03/17/20,1,,
+RITM0952931,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,07/27/20,07/28/20,1,,
+REQ0952169,Request,LIS Service Request,,4 - Low,,,Kristie Wong,07/27/20,07/28/20,1,,
+INC1180730,Incident,pH Daily Standardization can't be completed,pH meter,3 - Moderate,LIS-LabX-L2,Asfand Safdar,Emily Fan,12/03/20,12/11/20,8,,"Issue was resolved, no further steps needed. "
+REQ0849013,Request,QMS Requests - GTrack (User Access or Role Change Assistance),,4 - Low,,,Kristie Wong,03/16/20,03/17/20,1,,
+TASK1280023,Catalog Task,GMP-FC-FileCapture-FileRestore-XRD 54947,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Althea Contreras,10/14/20,10/15/20,1,,
+RITM0849668,Requested Item,QMS Requests - GTrack (User Access or Role Change Assistance),,4 - Low,,,Kristie Wong,03/16/20,03/17/20,1,,
+TASK1265006,Catalog Task,GMP-FC-FileCapture-FileRestore-PSA 52053,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Althea Contreras,09/30/20,10/01/20,1,,
+RITM1020566,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,10/14/20,10/15/20,1,,
+REQ1019667,Request,LIS Service Request,,4 - Low,,,Althea Contreras,10/14/20,10/15/20,1,,
+TASK1421407,Catalog Task,"Sustainability, Health and Safety Services - Lab Signage",,3 - Moderate,Facilities FC Supervisor - SHS,Valentin Blanco,Jessica Trinh,03/09/21,03/10/21,1,,
+REQ1006969,Request,LIS Service Request,,4 - Low,,,Althea Contreras,09/30/20,10/01/20,1,,
+RITM1007841,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,09/30/20,10/01/20,1,,
+TASK1388994,Catalog Task,GMP-FC-FileCapture-FileRestore-PSA 172065,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Jessica Trinh,02/09/21,02/10/21,1,,
+RITM1134941,Requested Item,"Sustainability, Health and Safety Services - Lab Signage",,4 - Low,,,Jessica Trinh,03/09/21,03/10/21,1,,
+REQ1132559,Request,"Sustainability, Health and Safety Services - Lab Signage",,4 - Low,,,Jessica Trinh,03/09/21,03/10/21,1,,
+INC1178760,Incident,Not able to sign in to skype business,,3 - Moderate,Contact Center,Daniel O Sullivan,Poonam Kaur,11/30/20,12/08/20,8,user mistake,"Hi Poonam,
+As per my message Skype has been retired. If you have any other issues or questions please don't hesitate to call the Service Desk.
+Regards,
+Daniel O'Sullivan"
+TASK1280023,Catalog Task,GMP-FC-FileCapture-FileRestore-XRD 54947,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Althea Contreras,10/14/20,10/15/20,1,,
+REQ1107702,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,02/09/21,02/10/21,1,,
+RITM1109555,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,02/09/21,02/10/21,1,,
+TASK1265006,Catalog Task,GMP-FC-FileCapture-FileRestore-PSA 52053,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Althea Contreras,09/30/20,10/01/20,1,,
+RITM1020566,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,10/14/20,10/15/20,1,,
+REQ1019667,Request,LIS Service Request,,4 - Low,,,Althea Contreras,10/14/20,10/15/20,1,,
+INC1117052,Incident,GLIMS ID: 3776839/ 3776838 OOA in the GLIMS.,GLIMS,3 - Moderate,LIS-GLIMS-L2,Tony Lin,Poonam Kaur,08/11/20,08/19/20,8,GLIMS set,"INVESTIGATIVE ACTIONS: 
+Went over the sample audit history  and looked at the sample product version and product spec configuration.
+
+ROOT CAUSE: 
+There is an action limit set on the A1_UnspecifiedImpurity01. Since PMPA is an unspecified impurity, the action limit was applied during calculation.
+However, in the paper spec there is a statement that PMPA is one of the impurities to be exempt from the action limit.
+
+CORRECTIVE ACTIONS: 
+User instructed to just close the investigation and proceed with authorization of the test citing the product spec document as justification to ignore the action limit.
+
+FINAL RESOLUTION: 
+Impurity PMPA for samples got flagged as OOC. SPEC-M0554 has an action limit placed on unspec impurities. However PMPA is exempt from action limits. User instructed to close investigation citing paper spec. User confirms they are able to continue."
+INC1027512,Incident, issues connecting laptop to the monitor,,4 - Low,"SS - Foster City, USA",Lesley Morton,Poonam Kaur,03/03/20,03/11/20,8,,"ACTIONS TAKEN:
+- I updated the power supply.
+- I set the power settings to do nothing when the lid is closed.
+- I used the hot keys to set the video mode to ""Extend"". "
+INC1027498,Incident, I have returned back from my maternity leave today on 03/03/2020. ,,4 - Low,Contact Center,Misael Toledo,Poonam Kaur,03/03/20,03/11/20,8,,"Hi Poonam ,
+As per our conversation, you are now able to user GxPlearn. I will now go ahead and close this ticket as discussed.
+Thanks for contacting the ESD.
+Kind Regards,
+Misael Toledo
+Enterprise Service Desk Team.
+"
+TASK1228773,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Jessica Trinh,08/25/20,08/26/20,1,,
+REQ1006969,Request,LIS Service Request,,4 - Low,,,Althea Contreras,09/30/20,10/01/20,1,,
+RITM1007841,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,09/30/20,10/01/20,1,,
+TASK1043384,Catalog Task,Other IT Services - Other Infrastructure Services (End-User Services Request) ,,3 - Moderate,"Ops - Exchange (Email, Outlook, EVault)",Naveen Gowtham,Jessica Trinh,02/11/20,02/12/20,1,,
+REQ0975983,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,08/25/20,08/26/20,1,,
+RITM0976772,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,08/25/20,08/26/20,1,,
+INC1247332,Incident,Distek 6100 Needs User Password,Disso bath,3 - Moderate,FC Lab Operations L1,Denise Trans,Kristie Wong,04/12/21,04/20/21,8,,User was able to resolve the ticket on her own 
+INC1143443,Incident,Repeated Symantec Endpoint Protection Detection Notifications,,4 - Low,Ops - Security Platform,Jayakumar Perumal,Kristie Wong,09/28/20,10/06/20,8,,Please follow the attached document steps and let me know if you are getting the pop ups. send an email if still getting the pop ups - Jayakumar.perumal@gilead.com
+TASK1407237,Catalog Task,"Sustainability, Health and Safety Services - Waste Container",,3 - Moderate,Facilities FC Supervisor - SHS,Valentin Blanco,Stephanie Ho,02/25/21,02/26/21,1,,
+RITM0820418,Requested Item,Other IT Services - Other Infrastructure Services (End-User Services Request) ,,4 - Low,,,Jessica Trinh,02/11/20,02/12/20,1,,
+REQ0819780,Request,Other IT Services - Other Infrastructure Services (End-User Services Request) ,,4 - Low,,,Jessica Trinh,02/11/20,02/12/20,1,,
+INC1130071,Incident,Dissolution Result Entry Does Not Save,GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Kristie Wong,09/02/20,09/10/20,8,System issue,"Description/Synopsis of the Issue: Dissolution Result Entry Does Not Save
+Investigative Actions: Viewed sample
+Root Cause: Enter Results link on the Stab Analyst dashboard uses the OpenResultEntry function, the Dissolution Profile Calculate Summary Component is a cross sample calculation. There is a vendor bug in the LabWare LIMS software that does not allow saving under these conditions.
+Corrective Actions: provided direction to use the Run>Enter Results menu instead of the dashboard link. A code fix request is in progress to resolve the root cause.
+Final Resolution: the Dissolution Profile result was calculated and saved."
+TASK1407073,Catalog Task,FC: Inadvertently  checked in the reference standard earlier than the actual check-in time,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Stephanie Ho,02/25/21,02/26/21,1,,
+REQ1121874,Request,"Sustainability, Health and Safety Services - Waste Container",,4 - Low,,,Stephanie Ho,02/25/21,02/26/21,1,,
+RITM1124025,Requested Item,"Sustainability, Health and Safety Services - Waste Container",,4 - Low,,,Stephanie Ho,02/25/21,02/26/21,1,,
+TASK1231587,Catalog Task,FC: User want to get access to Check in/check out Columns in LES,,3 - Moderate,LIS-LES-L2,Spandana Kolli,Stephanie Ho,08/27/20,08/28/20,1,,
+REQ1121747,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,02/25/21,02/26/21,1,,
+RITM1123895,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,02/25/21,02/26/21,1,,
+TASK1071090,Catalog Task,FC-SDMS Research Access-IDM-116047,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Stephanie Ho,03/10/20,03/11/20,1,,
+REQ0978365,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,08/27/20,08/28/20,1,,
+RITM0979158,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,08/27/20,08/28/20,1,,
+INC1104339,Incident,GLIMS Transfer Issue,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Althea Contreras,07/20/20,07/28/20,8,System issue,"Description/Synopsis of the Issue: Result Set ID 2344 was transferred to GLIMS for Impurities testing of samples GLIMS 3752021, 3752028, and 3752029.  The first two sample transferred, but GLIMS 3752029 did not transfer.
+Investigative Actions: Viewed samples, viewed LS_IMP background service
+Root Cause: LS_IMP restarted due to INC1104311, caused delay in processing of this transfer.
+Corrective Actions: none required. data processing completed about 15 minutes after transfer was performed by Althea
+Final Resolution: LS_IMP was restarted during the processing of this transfer to resolve INC1104311. When LS_IMP was back up, it completed the transfer to sample 3752029 and the transfer success email was sent about 5PM."
+INC1246095,Incident,unsuccessful Empower to LIMS transfer,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Chris Qiu,04/08/21,04/16/21,8,user mistake,"Description/Synopsis of the Issue: unsuccessful Empower to LIMS transfer
+Investigative Actions: Viewed archival folder, viewed labstations
+Root Cause: RRF of the main peak in Empower data was 0, the main peak was not included in the export so the transfer was rejected by GLIMS
+Corrective Actions: Provided direction to reactivate the Empower data and set the correct RRF on the main peak
+Final Resolution: Data transfer was successful.
+"
+INC1242388,Incident,FC: UPLC 43291 column manager communication failure - System power cycle resolution,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Chris Qiu,03/31/21,04/08/21,8,System issue,System power cycled and system appears fine. User changed to another system and agreed that ticket should be closed.
+INC1241034,Incident,FC: unable to save changes,ELN,3 - Moderate,LIS-ELN-L2,Teju Bose,Chris Qiu,03/29/21,04/06/21,8,System issue,"Issue: Intermittent errors, including issues with opening/saving experiments
+Status: Resolved
+Cause: Services hang on ELN application server
+Corrective Actions Taken: Cache cleared on server to free memory"
+INC1207238,Incident,FC: Communication Failure to UPLC instrument 43291- deleted and added the system back. PDA communication is re-established.,Empower,3 - Moderate,LIS-EMPOWER -L2,Suganya Sundararajan,Chris Qiu,01/27/21,02/04/21,8,System issue,Deleted and added the system back. Now the PDA communication is re-established.
+INC1120038,Incident,Monitor Issue: Unable to connect to monitors through dock,,4 - Low,"SS - Foster City, USA",Lesley Morton,Chris Qiu,08/17/20,08/25/20,8,,"ACTIONS TAKEN:
+- Update Zoom
+- Use DCU to update drivers and BIOS
+- This is resolved.
+"
+INC1089660,Incident,workflow transition error,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Chris Qiu,06/23/20,07/01/20,8,,"Issue: workflow transition error AOFC-2020-06-0086
+Status: Workaround provided 
+Root Cause: Unknown, reviewer permissions not updated when experiment sent for review.
+Corrective Actions Taken: n/a,  This issue was resolved when author withdraw  experiment to InProgress & re-sent the experiment for review."
+INC1054029,Incident,UPLC 42437 column preheater doesn't work ,UPLC 42437,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Jingtao Wang,04/21/20,04/29/20,8,,"The issue was fixed during the scheduled PM for the system by the FSE. No actions taken at this time
+"
+INC1003292,Incident,Empower to Glims data transfer failed for result set 3810 in GMP folder GS7977_9,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Dale Lucyk,Jingtao Wang,01/21/20,01/29/20,8,user knowledge/experience,"
+DESCRIPTION / SYNOPSIS OF THE ISSUE:
+""Empower to Glims data transfer failed for result set 3810 in GMP folder GS7977_9; Empower to Glims data transfer failed for result set 3810 in GMP folder FC_2020_01\GS7977_9857_5816. 
+need urgent help, please.
+thank you!""
+INVESTIGATIVE ACTIONS:
+Noted this is related to two 'Empower to LIMS transfer was not successful' emails received just prior to Incident being raised. Examined error log entries 686943 & 686946 cited in those emails. Compared error log entries against contents of transfer files - determined main peak for active GS5816 was missing from the transfer. Successfully modelled transfer in GLIMS SUPPORT with (dummy) peak for GS-5816 included.
+ROOT CAUSE:
+Incomplete data set transferred.
+CORRECTIVE ACTIONS:
+Advised user to repeat transfer with GS-5816 peak included - see attached email.
+FINAL RESOLUTION:
+User successfully re-transferred results with missing active included."
+INC1168834,Incident,Facilities Request - Jessica Trinh,Facility,4 - Low,Contact Center,Jiahui Ruan,Jessica Trinh,11/11/20,11/19/20,8,,"Hi Jessica ,
+Thank you for contacting Enterprise Service Desk.
+
+As our conversation, I will now proceed to close the ticket with your agreement.
+In future, should you have any other issues or questions, please feel free to contact myself and my colleagues on the Service Desk at your convenience. 
+Our contact numbers are 88-4444 / +1 650.522.5888 / +44.1223.897.444 / Toll Free Number (America) +1.844.827.4373 (+1.844.827.GESD)
+ Kind Regards,  
+Jiahui  
+Enterprise Service Desk "
+INC1126188,Incident,FC: Balance 43808 cannot electronically transfer weights  to ELN,ELN,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Jessica Trinh,08/27/20,09/04/20,8,System issue,"Issue: Balance 43808 cannot electronically transfer weight
+Cause: The port was going through a security scan
+Root Cause: Nexpose port scan
+Corrective Action Taken: As a workaround the balance was restarted by Lab Ops analyst. A SPARC ticket TASK1231903 has been created to network team to whitelist this balance IP address and the wall port it should not go through Nexpose port scans to avoid this balance communication issues in future"
+TASK1220847,Catalog Task,Software Request : Yan Wang,,3 - Moderate,Contact Center,Surya Chava,Yan Wang,08/17/20,08/18/20,1,,
+REQ0844055,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,03/10/20,03/11/20,1,,
+RITM0844709,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,03/10/20,03/11/20,1,,
+INC1104339,Incident,GLIMS Transfer Issue,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Althea Contreras,07/20/20,07/28/20,8,System issue,"Description/Synopsis of the Issue: Result Set ID 2344 was transferred to GLIMS for Impurities testing of samples GLIMS 3752021, 3752028, and 3752029.  The first two sample transferred, but GLIMS 3752029 did not transfer.
+
+Investigative Actions: Viewed samples, viewed LS_IMP background service
+
+Root Cause: LS_IMP restarted due to INC1104311, caused delay in processing of this transfer.
+
+Corrective Actions: none required. data processing completed about 15 minutes after transfer was performed by Althea
+
+Final Resolution: LS_IMP was restarted during the processing of this transfer to resolve INC1104311. When LS_IMP was back up, it completed the transfer to sample 3752029 and the transfer success email was sent about 5PM."
+TASK1411029,Catalog Task,Standard IT Requests - GDSS - DocuSign Request (Access Request) : Min Deng,,3 - Moderate,IT Security STO Platform,Niveditha Govindaraju,Min Deng,03/01/21,03/02/21,1,,
+REQ0969408,Request,Software Request : Yan Wang,,4 - Low,,,Yan Wang,08/17/20,08/18/20,1,,
+RITM0970186,Requested Item,Software Request : Yan Wang,,4 - Low,,,Yan Wang,08/17/20,08/18/20,1,,
+INC1081104,Incident,FC: UPLC 42437 PDA detector not turning on/communication failure,Empower,4 - Low,LIS-EMPOWER -L2,Suganya Sundararajan,Jessica Trinh,06/08/20,06/16/20,8,System issue,Restarted FCLACE303 after labops powered on the PDA detector. Hence resolving this ticket.
+INC1057888,Incident,[FC] RSID 4133 in GS5290_2020_Q2 results were exported but not showing up in GLIMS,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Dale Lucyk,Jessica Trinh,04/28/20,05/06/20,8,System issue,"
+DESCRIPTION / SYNOPSIS OF THE ISSUE:
+""[FC] RSID 4133 in GS5290_2020_Q2 results were exported but not showing up in GLIMS; RSID 4133 in GS5290_2020_Q2 results were exported but not showing up in GLIMS for LIMS ID 3697523 and 3697526.""
+INVESTIGATIVE ACTIONS:
+Examined \\FCNGLAPPPRDG02\LabStation\W_W\Archive - observed files ImpurityEmpowerWW4153_1342.pdf and .txt. Checked LS_SAMPLES Table - observed records for samples 3697523 and 3697526. Requested LS_SAMPLES Table to be cleared and services restarted by Admin - done. Requested user to re-transfer - observed files handled as expected in LS folder, but 'Key is missing' RTE in DEBUG_LOG. Modelled transfer of same files into GLIMS SUP - data transferred successfully. Asked user to transfer files for a third time - files stuck in staging folder temporarily, but processed after left over night.
+ROOT CAUSE:
+Samples stuck in staging table.
+CORRECTIVE ACTIONS:
+LS_SAMPLES Table cleared and services restarted by Admin. 
+FINAL RESOLUTION:
+Results successfully transferred. User confirmed entryis as expected."
+INC1004024,Incident,Remove broken stir plates and uv autosampler from lab 244080,Operations,4 - Low,FC Lab Operations L1,Nathaniel Gagaza,Jessica Trinh,01/22/20,01/30/20,8,,Items were removed from lab 355-244080 as requested.
+INC1247558,Incident,FC: Processing Method Read Only Error - Error cleared by Admin,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Stephanie Ho,04/12/21,04/20/21,8,,Error cleared by Admin
+INC1245909,Incident,"FC: Processing Method Read Only Error, Being Edited by  another user-  Error cleared by Admin to resolve incident",Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Stephanie Ho,04/08/21,04/16/21,8,,Error cleared by Admin to resolve incident
+INC1223113,Incident,Disso Bath Cleaner CMMS ID: 50791 in Lab 244080A is not working,Disso bath,3 - Moderate,FC Lab Operations L1,Evan Zhang,Stephanie Ho,02/25/21,03/05/21,8,,"Hi Stephanie,
+
+I went by the instrument and was able to power on the instrument with no issue.  
+
+the problem that you encountered might be due to the he way safety circuity work on the washer vessel. 
+
+when the instrument gets powered down and unplugged from the wall socket. the main power plug need to be reset (push the reset button) this will resume power continuity to the instrument.  once that's established you can turn on the on switch behind the back of the instrument. 
+
+I tested the instrument by powering it on and off 3x, performed 1x 500ml flush and did not encounter any issues. 
+
+let me know if you need any additional help and please feel free to reach out directly and ill be glad to demonstrate this for you as well. 
+
+Thanks,
+Evan"
+INC1027520,Incident,Self Evaluation: 2020 Goals Not In Manager's Inbox,,3 - Moderate,Reporting L3,Narasimha Mekala,Stephanie Ho,03/03/20,03/11/20,8,,"HR Case # HRC0246760 has been created for this incident and this issue will be addressed through case mentioned. 
+"
+INC1019109,Incident, Email Not Showing All Items (Microsoft Office 365 ProPlus),,3 - Moderate,Contact Center,Rutuja Joshi,Stephanie Ho,02/18/20,02/26/20,8,,"Hi Stephanie,
+Thank you for contacting us, It was a pleasure assisting you. Please feel free to call the service desk at +1 650.522.5888 or ext. 884444 for prompt assistance.
+Thank you
+Rutuja Joshi
+Enterprise Service Desk
+
+"
+REQ1124584,Request,Standard IT Requests - GDSS - DocuSign Request (Access Request) : Min Deng,,4 - Low,,,Min Deng,03/01/21,03/02/21,1,,
+TASK1313573,Catalog Task,Site Services - Cleaning,,3 - Moderate,Facilities FC - Janitorial,Alex Sanchez,Min Deng,11/17/20,11/18/20,1,,
+RITM1126786,Requested Item,Standard IT Requests - GDSS - DocuSign Request (Access Request) : Min Deng,,4 - Low,,,Min Deng,03/01/21,03/02/21,1,,
+INC1242325,Incident,Error message when try to cancel a test in GLIMS -,GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Yan Wang,03/31/21,04/08/21,8,user knowledge/experience,"Description/Synopsis of the Issue: Error message when try to cancel a test in GLIMS
+Investigative Actions: Viewed error message, gathered debug logs, investigated error message
+Root Cause: Orphaned child test in the sample caused error. The child test became orphaned due to cancelled status when replace test variation menu was used on its parent test.
+Corrective Actions: Provided direction to Lab_Manager to use test editor to restore and remove the orphaned child test. Logged code fix request to admin team to prevent recurrence of the problem.
+Final Resolution: cause of error message was resolved, sample was ready for Empower data retransfer."
+INC1235916,Incident,FC- Couldn't check in GMP experiment of AOFC-2021-02-0210,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Yan Wang,03/18/21,03/26/21,8,System issue,"Issue: Couldn't check in GMP experiment of AOFC-2021-02-0210
+Status: Resolved
+Root Cause: Connection lost between Database server and Vault -02 and 03 servers
+Corrective Action Taken: Once all the services are restored, checked with user and user confirmed that there was no loss of data, hence closing the request
+Note: For more updates on the issue, please refer to sparc INC1235929."
+INC1104311,Incident,data transfer issue,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Yan Wang,07/20/20,07/28/20,8,System issue,"Description/Synopsis of the Issue: I did w/w export of EMpower RSID 2973 to GLIMS for sample ID 3744983 today, but I didn't receive any notification of successful or not. Also, I didn't see data was transferred to GLIMS HPLC data line. Can somebody take a look of it for us?
+
+Investigative Actions: Viewed LS_samples, viewed LS_IMP, checked background server
+
+Root Cause: No errors identified, LS_Samples records stuck for over 1 hour.
+
+Corrective Actions: Requseted admin to clear LS_Samples and reset LS_IMP
+
+Final Resolution: Transfer completed."
+INC1089914,Incident,SSR didn't show all time points results after added release data as T0,GLIMS,3 - Moderate,LIS-L1,Mark Borbe,Yan Wang,06/23/20,07/01/20,8,,"Hi Yan,
+Good day to you! As per your request we are now closing this request. 
+Feel free to reacho out and contact our  support group should you need any support. Thank you!
+Kind Regards,
+LIS Support"
+INC1076850,Incident,FC: UPLC 42322 column Manager communication error - Lace and PDA Detector reset,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Yan Wang,06/01/20,06/09/20,8,System issue,Lace and PDA Detector were reset respectively to resolve the incident.
+INC1256586,Incident,Stability samples are not assigned to me as sample level approver in GLIMS,GLIMS,4 - Low,LIS-GLIMS-L2,Syed Shafiuddin,Min Deng,04/29/21,05/07/21,8,,
+TASK1252640,Catalog Task,[FC] - Requesting access to the Research Sample e-Submission Portal - Min Deng,,3 - Moderate,LIS-GLIMS-L2,Mark Borbe,Min Deng,09/17/20,09/18/20,1,,
+REQ1048149,Request,Site Services - Cleaning,,4 - Low,,,Min Deng,11/17/20,11/18/20,1,,
+RITM1049075,Requested Item,Site Services - Cleaning,,4 - Low,,,Min Deng,11/17/20,11/18/20,1,,
+INC1049405,Incident,FC:  Can't check in GS-7977 Ref Std on LES it shows locked by another user,LES,4 - Low,LIS-LES-L2,Vinod Veerapuram,Min Deng,04/13/20,04/21/20,8,,
+INC1195447,Incident,FC- Not able to import Excel validated spreadsheet printout to ELN,Sdms,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Timothy Woods,01/05/21,01/14/21,9,user mistake,Recommended to use the 1.0 version of the form for printing.
+REQ0996346,Request,LIS Service Request,,4 - Low,,,Min Deng,09/17/20,09/18/20,1,,
+TASK1204168,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System) - Stability Summary Report,,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Min Deng,07/30/20,07/31/20,1,,
+RITM0997167,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,09/17/20,09/18/20,1,,
+REQ0955243,Request,LIS Service Request,,4 - Low,,,Min Deng,07/30/20,07/31/20,1,,
+TASK1122098,Catalog Task,PC : Cannot view CM tab,,3 - Moderate,GVault L2,Shalu Shalu,Min Deng,05/04/20,05/05/20,1,,
+RITM0956007,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,07/30/20,07/31/20,1,,
+INC1108810,Incident,Cannot Access R&D LabX Environment,LabX,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Timothy Woods,07/27/20,08/05/20,9,System issue,Reboot of servers restored instrument conectivity
+INC1003043,Incident,Bulk Upload for Requesting Group Access not working,,4 - Low,Ops - IAM - IDM,Nambirajan Jayaraman,Timothy Woods,01/21/20,01/30/20,9,,User able to raise the bulk group access request in IDM.
+INC1151714,Incident,"1) Can not add test method version, 2)data results can not completely calculate",GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Shi Sa,10/12/20,10/21/20,9,user knowledge/experience,"Investigative Actions: viewed sample
+Root Cause: test method window opened in read only mode, Unknown ICH component not entered.
+Corrective Actions: provided directions to use the editable test method window to enter the version performed. Provided direction to enter the Unkown ICH result to complete the test.
+Final Resolution: test ready for review."
+INC1076090,Incident,COVID19-Childcare expense for May month,,3 - Moderate,Concur L2,Swaroop Kumar Mohanty,Poonam Kaur,05/31/20,06/09/20,9,,"This is an acknowledgement that, we have analyzed the issue and fixed it. Request you to kindly validate and confirm us for closure. In case if the issue continues to occur please let us know for further analysis and troubleshooting. 
+
+1. Solution Details :  Assisted user with the required information
+2. Steps Taken To Fix Issue : N/A
+3. Repeated Issue (Yes/No) : No
+4. Type of Solution Provided (Permanent/Workaround) : Permanent
+5. If Workaround, When and What would be the Plan for Permanent fix : N/A
+"
+INC1070330,Incident,FC: not able to open anything on empower,Empower,3 - Moderate,LIS-EMPOWER -L2,Don Upchurch,Poonam Kaur,05/20/20,05/29/20,9,System issue,Reset citrix profile and asked user to reset login.  Per email (05/22/2020) from user issue has been resolved
+INC1230200,Incident,SPARC incident INC1230200 has been replaced by SPARC TASK1424424,,4 - Low,LIS-LES-L2,Vinod Veerapuram,Kristie Wong,03/09/21,03/18/21,9,,SPARC incident INC1230200 has been replaced by SPARC TASK1424424 since this is not an incident
+INC1183667,Incident,SPARC incident INC1183667 has been replaced by SPARC TASK1335568,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Kristie Wong,12/09/20,12/18/20,9,,SPARC incident INC1183667 has been replaced by SPARC TASK1335568 since this is not an incident
+INC1024415,Incident,Wrong ELN's in my private repository,ELN,4 - Low,LIS-ELN-L2,Midhun Krothapalli,Kristie Wong,02/26/20,03/06/20,9,System issue,"Issue : Reviewed GMP experiments are checkout.
+Status: Resolved
+Root cause: Author account was not setup properly when user was moving from AO to FPD.
+Corrective actions taken: As per PR170373 With QA approval discarded all the experiments and brought back to Review stage and updated Authors account.
+Please find QA approval attached"
+INC1195822,Incident,USERDOWN - My laptop can't  be unlocked and need to restart every time to resume work after it is locked,IT,4 - Low,"SS - Foster City, USA",Ronell Reyes,Jingtao Wang,01/06/21,01/15/21,9,System issue,"Removed computer from domain. restarted system. added to na.gilead.com domain.
+
+Updated Dell drivers via DCU."
+INC1188117,Incident,DIsso CMMS ID 46493 has broken latch for vessel position #3,Disso bath,4 - Low,FC Lab Operations L1,Madhuri Nagadi,Jessica Trinh,12/16/20,12/25/20,9,System issue,Vessel Clips replaced
+TASK1086054,Catalog Task,LIS SR - ELN (Electronic Lab Notebook),,3 - Moderate,GLIS Support,Sameer Murshed,Min Deng,03/25/20,03/26/20,1,,
+REQ0886933,Request,General Library Information Services,,4 - Low,,,Min Deng,05/04/20,05/05/20,1,,
+RITM0887609,Requested Item,General Library Information Services,,4 - Low,,,Min Deng,05/04/20,05/05/20,1,,
+INC1057782,Incident,[FC] - Incorrect result added in e-sig dialog when trying to save added results for OR,GLIMS,3 - Moderate,LIS-GLIMS-L2,Piaras O'Murchu,Jessica Trinh,04/28/20,05/07/20,9,System issue,"DETAILS:
+When trying to save my result entry for the Optical Rotation test, the E-Signature Dialog shows that i have made changes to Impurity_Cont_LC_W_W_Per_Dried even though I have not. This is for GLIMS 3705855. I have not saved any of my entries and cancelled out of the window. Please see the attachment and advise how to proceed.
+INVESTIGATIVE ACTIONS:
+Reproduced issue, located root cause.
+ROOT CAUSE:
+A1_Impurity22 component of  IMPURITY_CONT_LC_W_W_PER_DRIED needed the autocalculation flag turned off.
+CORRECTIVE ACTIONS:
+Informed Admin team of the issue.
+FINAL RESOLUTION:
+Configuration of component updated as requested and Jessica was able to proceed without issue."
+INC1229443,Incident,Rounding Issue When Entering Result,GLIMS,3 - Moderate,LIS-GLIMS-L2,Forest Yang,Stephanie Ho,03/08/21,03/17/21,9,,Information provided to refresh data entry.
+INC1019094,Incident,Please Expedite - Reviewer Cannot Sign Off for VV-QUAL-133403,Gvault,3 - Moderate,GVault L2,Rajat Singhal,Stephanie Ho,02/18/20,02/27/20,9,,User was not able that how to start the workflow so I guide him how to do it
+INC0994936,Incident,Cannot Open SDMS Links,SDMS,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Stephanie Ho,01/06/20,01/15/20,9,,"SDMS View fixed for the Link to work. 
+User Comment:
+Hi Arokia and Nadeem,
+My apologies for the delayed response. It has been very busy. The SDMS links appear to be working now. Please close the ticket.
+hank you very much for your help.
+Kind regards,
+Stephanie Ho
+"
+TASK1262468,Catalog Task,GMP-FC-FileCapture-FileRestore-Mastersizer 46856,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Timothy Woods,09/28/20,09/30/20,2,,
+REQ0862777,Request,Access Request via IDM,,4 - Low,,,Min Deng,04/01/20,04/02/20,1,,
+RITM0863438,Requested Item,Access Request via IDM ( Gilead Laboratory Information Management System (GLIMS) ),,4 - Low,,,Min Deng,04/01/20,04/02/20,1,,
+TASK1148305,Catalog Task,FC- Experiment created in wrong folder,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Timothy Woods,06/01/20,06/03/20,2,,
+REQ0856846,Request,LIS Service Request,,4 - Low,,,Min Deng,03/25/20,03/26/20,1,,
+RITM0857505,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,03/25/20,03/26/20,1,,
+TASK1443329,Catalog Task,Instructions for MFA set up Request : Bindu Battineni,,3 - Moderate,Contact Center,Nelson Chan,Bindu Battineni,03/29/21,03/31/21,2,,
+REQ1078134,Request,Access Request via IDM,,4 - Low,,,Cinthya Susanibar Tinoco,01/04/21,01/05/21,1,,
+RITM1079270,Requested Item,Access Request via IDM ( Gilead Laboratory Information Management System (GLIMS) ),,4 - Low,,,Cinthya Susanibar Tinoco,01/04/21,01/05/21,1,,
+INC1238281,Incident,gLIMS - SPEC-M0593 update,Glims,3 - Moderate,LIS-GLIMS-L2,Leonid Tretyakov,Yan Wang,03/23/21,04/01/21,9,System issue,"Specification was updated as a temporary workaround (please see TASK1437345).
+Permanent Enhancement logged and will be handled via process outside of SPARC."
+RITM1005767,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,09/28/20,09/30/20,2,,
+TASK1524337,Catalog Task,Other Request : Bindu Battineni,,3 - Moderate,Contact Center,Maricris Vermug,Bindu Battineni,06/08/21,06/10/21,2,,
+REQ1004898,Request,LIS Service Request,,4 - Low,,,Timothy Woods,09/28/20,09/30/20,2,,
+TASK1459011,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Emily Fan,04/12/21,04/14/21,2,,
+RITM0909720,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,06/01/20,06/03/20,2,,
+REQ0909017,Request,LIS Service Request,,4 - Low,,,Timothy Woods,06/01/20,06/03/20,2,,
+INC1050744,Incident,HUPLC ID 43291 column error,UPLC ,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Yan Wang,04/15/20,04/24/20,9,System issue,"Engineer power  cycled the instrument , and reboot the LACE but could not reproduce failure< cycle valve serval times without any failure. "
+REQ1148946,Request,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,03/29/21,03/31/21,2,,
+TASK1332844,Catalog Task,QDMS -GVault - GVault (User Access or Role Change Assistance) ,,3 - Moderate,GVault L2,Shanu Saurabh,Emily Fan,12/09/20,12/11/20,2,,
+REQ1206884,Request,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,06/08/21,06/10/21,2,,
+INC1010985,Incident,[FC] data transfer of RSID 2348: not notified,GLIMS- data transfer,3 - Moderate,LIS-GLIMS-L2,Dale Lucyk,Yan Wang,02/03/20,02/12/20,9,System issue,"
+DESCRIPTION / SYNOPSIS OF THE ISSUE:
+""[FC] data transfer of RSID 2348: not notified; It looks no data has been transferred to GLIMS for sample ID 3652807 and 3652809 strength and impurity Asay (w/w). RSID: 2348.
+Didn't receive e-mail notification, didn't see data under the HPLC data line.
+Please take a look and help solve the issue. need to close today or tomorrow. 
+************************
+LIMS help due Wed Feb 5 2020.  they need time to review before release due on friday""
+INVESTIGATIVE ACTIONS:
+Reproduced issue in SUP - transfer files consumed by LabStation but no data entered. Reviewed data files - no issues observed. Observed basic.log file in LabStation client folder contains 'Runtime error:  does not understand: grades' with apparent reference to Lot_Sampling_Point record having Product Version = '0'. Second transfer in SUP was successful, however.
+ROOT CAUSE:
+TBD via RCA.
+CORRECTIVE ACTIONS:
+Requested user to re-transfer, first same files as previously and also files containing only second sample (3652809). Raised TASK1037305 for root-cause analysis.
+FINAL RESOLUTION:
+Second transfer attempt was successful, although appeared to take much longer than expected. Resolution to be tracked via RCA."
+INC1186802,Incident,Empower result transfer to GLIMS not correct,GLIMS,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Min Deng,12/14/20,12/23/20,9,,
+TASK1308460,Catalog Task,FC: Request to reboot FCLACE363 GC 46427 ,,3 - Moderate,LIS-EMPOWER -L2,Karthik Amudala,Althea Contreras,11/11/20,11/13/20,2,,
+RITM1151720,Requested Item,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,03/29/21,03/31/21,2,,
+RITM1211332,Requested Item,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,06/08/21,06/10/21,2,,
+INC1264943,Incident,Recurrence detail Query is not working,Gtrack,3 - Moderate,GTrack L2,Sivakumar Thindivanam,Cinthya Susanibar Tinoco,05/17/21,05/26/21,9,,"1. Steps Taken to Fix Issue: We verified PR 221586 and found 'F/TAF' is mentioned only in 'Title' field but not in 'Material Name', please ensure your query criteria is based on correct field that has the desired data. Refer BED-01097 on how to use Query builder in GTrack.
+2. Repeated Issue (Yes/No): No
+3. Type of Solution Provided (Permanent/Workaround): Permanent
+4. If Workaround, When and What would be the Plan for Permanent fix: NA"
+INC0994330,Incident,Print to SDMS for Particle Size not working,SDMS,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Timothy Woods,01/03/20,01/13/20,10,user knowledge/experience,Trained User to select the report which has SDMS Metadata.
+REQ1160509,Request,LIS Service Request,,4 - Low,,,Emily Fan,04/12/21,04/14/21,2,,
+TASK1084529,Catalog Task,FC- Res- SDMS Access,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Althea Contreras,03/24/20,03/26/20,2,,
+RITM1163571,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,04/12/21,04/14/21,2,,
+TASK1041645,Catalog Task,CISPro - Access Request : Althea Contreras,,3 - Moderate,CISPRO L2,William Berry,Althea Contreras,02/10/20,02/12/20,2,,
+REQ1064657,Request,GVault - GVault (User Access or Role Change Assistance) ,,4 - Low,,,Emily Fan,12/09/20,12/11/20,2,,
+RITM1065590,Requested Item,GVault - GVault (User Access or Role Change Assistance) ,,4 - Low,,,Emily Fan,12/09/20,12/11/20,2,,
+REQ1043826,Request,LIS Service Request,,4 - Low,,,Althea Contreras,11/11/20,11/13/20,2,,
+RITM1044746,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,11/11/20,11/13/20,2,,
+INC1182965,Incident,SPARC incident INC1182965 has been replaced with SPARC TASK1336047,,3 - Moderate,FC Lab Operations L1,Vinod Veerapuram,Shi Sa,12/08/20,12/18/20,10,,SPARC incident INC1182965 has been replaced with SPARC TASK1336047 since this is not an incident
+TASK1265048,Catalog Task,GMP-FC-FileCapture-FileRestore-PSA 44231,,3 - Moderate,LIS-SDMS-L2,Herold Dsouza,Chris Qiu,09/30/20,10/02/20,2,,
+REQ0855585,Request,LIS Service Request,,4 - Low,,,Althea Contreras,03/24/20,03/26/20,2,,
+RITM0856244,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,03/24/20,03/26/20,2,,
+TASK1308460,Catalog Task,FC: Request to reboot FCLACE363 GC 46427 ,,3 - Moderate,LIS-EMPOWER -L2,Karthik Amudala,Althea Contreras,11/11/20,11/13/20,2,,
+REQ0818200,Request,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/12/20,2,,
+RITM0818838,Requested Item,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/12/20,2,,
+TASK1084529,Catalog Task,FC- Res- SDMS Access,,3 - Moderate,LIS-SDMS-L2,Nadeem Mohammed,Althea Contreras,03/24/20,03/26/20,2,,
+REQ1007001,Request,LIS Service Request,,4 - Low,,,Chris Qiu,09/30/20,10/02/20,2,,
+RITM1007873,Requested Item,LIS Service Request,,4 - Low,,,Chris Qiu,09/30/20,10/02/20,2,,
+INC1214020,Incident,FC- ELN instrument usage transfer to LES failed,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Kristie Wong,02/09/21,02/19/21,10,System issue,"Issue: ELN instrument usage transfer to LES failed
+Status: Resolved
+Root Cause: Issue due LES system drop down
+Corrective Actions Taken: Admin team re queued failure to LES IM"
+TASK1041645,Catalog Task,CISPro - Access Request : Althea Contreras,,3 - Moderate,CISPRO L2,William Berry,Althea Contreras,02/10/20,02/12/20,2,,
+REQ1043826,Request,LIS Service Request,,4 - Low,,,Althea Contreras,11/11/20,11/13/20,2,,
+RITM1044746,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,11/11/20,11/13/20,2,,
+INC1049357,Incident,[INSI] - [USR-IPROC PROCESS] -Error when submitting requisition (Project information needed?),,4 - Low,Procure to Pay (PTP) L1,Neha Ulwekar,Kristie Wong,04/13/20,04/23/20,10,,Resolved on screenshare
+INC1025835,Incident,Hazardous Waste Funnel Broken,Waste,4 - Low,LIS-L1,Tian Tian Lin,Kristie Wong,02/28/20,03/09/20,10,,Les Curlee from Maintenance has been dispatched.
+TASK1042187,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Stephanie Ho,02/10/20,02/12/20,2,,
+REQ0855585,Request,LIS Service Request,,4 - Low,,,Althea Contreras,03/24/20,03/26/20,2,,
+RITM0856244,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,03/24/20,03/26/20,2,,
+TASK1203054,Catalog Task,Folder Access Request - Read only access,,3 - Moderate,Library Information Services L2,Kimberly Koshiyama,Yan Wang,07/29/20,07/31/20,2,,
+REQ0818200,Request,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/12/20,2,,
+RITM0818838,Requested Item,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/12/20,2,,
+RITM0819374,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,02/10/20,02/12/20,2,,
+REQ0818736,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,02/10/20,02/12/20,2,,
+TASK1015302,Catalog Task,Software Request : Yan Wang,,3 - Moderate,JMP IT Support,Subramani Reddy,Yan Wang,01/13/20,01/15/20,2,,
+RITM0955040,Requested Item,Folder Access Request - Read only access,,4 - Low,,,Yan Wang,07/29/20,07/31/20,2,,
+REQ0954277,Request,Folder Access Request - Read only access,,4 - Low,,,Yan Wang,07/29/20,07/31/20,2,,
+INC1015544,Incident,Safety circuit error for XRPD CMMS ID 43254,XRPD,2 - High,FC Lab Operations L1,Ilgiz Yamilov,Chris Qiu,02/11/20,02/21/20,10,,"Hi Ilgiz,
+The X-ray is working now.
+Thanks,
+Chris
+"
+TASK1118329,Catalog Task,Other Request : Min Deng,,3 - Moderate,GShare L2,Selvakumar Somu,Min Deng,04/29/20,05/01/20,2,,
+RITM0796055,Requested Item,Software Request : Yan Wang,,4 - Low,,,Yan Wang,01/13/20,01/15/20,2,,
+REQ0795436,Request,Software Request : Yan Wang,,4 - Low,,,Yan Wang,01/13/20,01/15/20,2,,
+INC1168258,Incident,UPLC 48916  prime injector doesn't work nomally,UPLC,3 - Moderate,FC Lab Operations L1,Heather Duong,Jingtao Wang,11/10/20,11/20/20,10,System issue,"FTN Pressure transducer  has been replaced. FTN pressure is back to normal ~ 20 Psi, when priming. "
+INC1142209,Incident,Data Collector cannot connect to XRPD 43254,XRPD,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Jessica Trinh,09/25/20,10/05/20,10,,Resolved by Asfand
+INC1247502,Incident,FC-Fclace307 Lacebox Desktop is making loud noises,Empower,3 - Moderate,LIS-EMPOWER -L2,Nadeem Mohammed,Stephanie Ho,04/12/21,04/22/21,10,,Closing this ticket as per the confirmation and no escalation was raised on this incident.
+REQ0883794,Request,Other Request : Min Deng,,4 - Low,,,Min Deng,04/29/20,05/01/20,2,,
+RITM0884468,Requested Item,Other Request : Min Deng,,4 - Low,,,Min Deng,04/29/20,05/01/20,2,,
+INC1083723,Incident,FC: Cannot Open Processing Method - Processing Method clear resolution,Empower,3 - Moderate,LIS-EMPOWER -L2,Surajdeen Lasisi,Stephanie Ho,06/12/20,06/22/20,10,,The processing Method was locked to the User and clearing it resolved the incident. User confirmed successful update.
+INC1009826,Incident,[FC] - Cannot Complete Sample 3596055,GLIMS,4 - Low,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,01/31/20,02/10/20,10,user knowledge/experience,"Description/Synopsis of the Issue: For DSC GLIMS Sample 3596055, it is showing as incomplete even though I have added my results. I think the system is expecting Scan Rate, Main Peak and Main Peak Onset, although these are not required per the SPEC. Is it possible to remove them or is there something else in the background preventing the sample to be shown as complete (ready for review)? I asked Jean to try to remove these fields but it is also grayed out for her. If possible, could this be resolved by Monday? We need to close out the sample and ELN, in order to close the lab investigation. 
+Investigative Actions: Viewed sample
+Root Cause: Result with required flag was not entered or reviewed
+Corrective Actions: Provided instruction to re-assign the Main Peak Onset result to the test and cancel it.
+Final Resolution: The test and sample became complete status."
+INC1000549,Incident,FC-SDMS will not save reports on new Sotax DT50 Tablet Disintegrator,Sdms,4 - Low,LIS-SDMS-L2,Nadeem Mohammed,Stephanie Ho,01/15/20,01/25/20,10,,"User raised 2 tickets for the same task. Arokia was able to help the user.
+Please refer to INC1000548"
+INC1035825,Incident,ELN status issue after signed off Review - Anna Peh's account,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Yan Wang,03/17/20,03/27/20,10,user knowledge/experience,"Issue:can't capture weight! urgent help needed!
+Status: Resolved
+Root Cause: Sorting issue
+Corrective Actions Taken: na, user started her preparation on next row and it worked without any issue.
+"
+INC1206691,Incident,GLIMS revised method is not reflected in LIMs,GLIMS,4 - Low,LIS-GLIMS-L2,Stephen Armen,Min Deng,01/26/21,02/05/21,10,,
+INC1184662,Incident,"I have an issue with my ELN laptop, after I changed my passowrd, i cannot log in anymore. And my other laptop, always fall into sleep mode, even in the middle o",ELN,4 - Low,Contact Center,Adam Cunningham,Min Deng,12/11/20,12/21/20,10,,
+TASK1205826,Catalog Task,FC GMP: LIMS DISSOLUTION v1 Export from GS1156_2020_Q3 trouble,,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Kristie Wong,07/31/20,08/03/20,3,,
+REQ0956710,Request,LIS Service Request,,4 - Low,,,Kristie Wong,07/31/20,08/03/20,3,,
+RITM0957476,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,07/31/20,08/03/20,3,,
+TASK1040593,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Chris Qiu,02/07/20,02/10/20,3,,
+RITM0817950,Requested Item,LIS Service Request,,4 - Low,,,Chris Qiu,02/07/20,02/10/20,3,,
+REQ0817313,Request,LIS Service Request,,4 - Low,,,Chris Qiu,02/07/20,02/10/20,3,,
+INC1155220,Incident,"Laptop Overheating, Fan Noise, Performance Issues",,4 - Low,"SS - Foster City, USA",Gabriel Flores,Min Deng,10/19/20,10/29/20,10,,
+INC1151601,Incident,FC: one GMP ELN showed two version in my ELN inbox,ELN,4 - Low,LIS-ELN-L2,Aruna Vytla,Min Deng,10/12/20,10/22/20,10,,
+INC1150480,Incident,CKF 43376 Failed Standard Recovery Twice,CKF,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Timothy Woods,10/09/20,10/20/20,11,operation issue,Resealed the bottle to the solvent manager. Made sure tubing's  were connected  properly.  Added more grease to provide a better seal on the glass cell.  And replaced the Molecular sieve in the generator electrode.  Instrument is working fine.
+INC1017677,Incident,FC: GC46428 - Error 40 - No help required,Empower,3 - Moderate,LIS-EMPOWER -L2,Suganya Sundararajan,Shi Sa,02/14/20,02/25/20,11,,"This is a known error in Empower.  informed the user to submit a ticket in case if its stopping the user from acquiring data.  Since the user don't require any help, resolving this ticket."
+TASK1529187,Catalog Task,ETC Mouse,,3 - Moderate,IMAC - Foster City,Alvin Singh,Jingtao Wang,06/11/21,06/14/21,3,,
+REQ1210573,Request,"Computers, Accessories and Software",,4 - Low,,,Jingtao Wang,06/11/21,06/14/21,3,,
+RITM1215126,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Jingtao Wang,06/11/21,06/14/21,3,,
+INC1142045,Incident,FC - ELN laptop is unable to connect to internet,ELN,3 - Moderate,GLIS Support,Sameer Murshed,Poonam Kaur,09/25/20,10/06/20,11,user knowledge/experience,User had recently changed password. Had user restart the computer and sign in under LAN connections. following had user restart and sign in using WiFi to confirmed they had access. User confirms issue is no longer present and incident can be closed. 
+INC1267442,Incident,"HUPLC fittings possibly damaged, and valve leaking",UPLC,3 - Moderate,FC Lab Operations L1,Heather Duong,Kristie Wong,05/21/21,06/01/21,11,,The issues could not be reproduced in the presence of Waters engineer. The user will submit another ticket if issue reappears 
+INC1051113,Incident,UPLC CMMS ID 46835 Broken Column Lines,UPLC,4 - Low,FC Lab Operations L1,Hammi Messate,Althea Contreras,04/16/20,04/27/20,11,,"CM-A , tubings and APH have been replaced. Test CM-A for functionality (column switching) was performed. "
+INC1057228,Incident,unable to search,ELN,4 - Low,LIS-ELN-L2,Aruna Vytla,Chris Qiu,04/27/20,05/08/20,11,System issue,"Issue: Ladybug error when trying to search in ELN
+Status: Patch's to be deployed on 18MAY2020 to production
+Root Cause: Please track the next updates through a master INC opened by ref INC1041562, and working with Oracle vendor on this issue
+Corrective Actions Taken: na, fix will be deployed on May 18th 2020. "
+INC1048405,Incident,Can't check out Standard from LES through ELN,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Chris Qiu,04/10/20,04/21/20,11,LES missing,"Issue: Can't check out Standard from LES through ELN
+Status: Resolved
+Root Cause: IMID trying to use is in admin status.
+Corrective Actions Taken: After  LES team made  status available user able to check out check in without any issue."
+REQ1204810,Request,Other Request : Jingtao Wang,,4 - Low,,,Jingtao Wang,06/04/21,06/07/21,3,,
+TASK1521404,Catalog Task,Other Request : Jingtao Wang,,3 - Moderate,SPARC L1,Venkataaditya Sandu,Jingtao Wang,06/04/21,06/07/21,3,,
+RITM1209175,Requested Item,Other Request : Jingtao Wang,,4 - Low,,,Jingtao Wang,06/04/21,06/07/21,3,,
+TASK1016556,Catalog Task,New - LIS SR - Laboratory Supplies,,3 - Moderate,CISPRO L2,William Berry,Jingtao Wang,01/14/20,01/17/20,3,,
+REQ0796489,Request,LIS Service Request,,4 - Low,,,Jingtao Wang,01/14/20,01/17/20,3,,
+RITM0797110,Requested Item,LIS Service Request,,4 - Low,,,Jingtao Wang,01/14/20,01/17/20,3,,
+TASK1056478,Catalog Task,Experiment Transition,,3 - Moderate,LIS-ELN-L2,Abdullah Ahmed,Jessica Trinh,02/25/20,02/28/20,3,,
+REQ0891195,Request,Lab Services - Other Lab Services,,4 - Low,,,Jessica Trinh,05/08/20,05/11/20,3,,
+RITM0891875,Requested Item,Lab Services - Other Lab Services,,4 - Low,,,Jessica Trinh,05/08/20,05/11/20,3,,
+TASK1284042,Catalog Task,FC: User needed help as she accidentally wrote password in Comments section,,3 - Moderate,LIS-LES-L2,Spandana Kolli,Stephanie Ho,10/19/20,10/22/20,3,,
+RITM0832010,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,02/25/20,02/28/20,3,,
+REQ0831368,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,02/25/20,02/28/20,3,,
+TASK1208751,Catalog Task,LIS SR - GLIMS (Gilead Lab Info Mgmt System),,3 - Moderate,LIS-GLIMS-L2,Stephen Armen,Stephanie Ho,08/04/20,08/07/20,3,,
+RITM1024071,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/19/20,10/22/20,3,,
+REQ1023170,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/19/20,10/22/20,3,,
+TASK1232957,Catalog Task,ETC DOCK,,3 - Moderate,IMAC - Foster City,Renato Tolentino,Poonam Kaur,08/28/20,09/01/20,4,,
+REQ0959130,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,08/04/20,08/07/20,3,,
+RITM0959897,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,08/04/20,08/07/20,3,,
+INC1051113,Incident,UPLC CMMS ID 46835 Broken Column Lines,UPLC,4 - Low,FC Lab Operations L1,Hammi Messate,Althea Contreras,04/16/20,04/27/20,11,instrument maintain/part replace,"CM-A , tubings and APH have been replaced. Test CM-A for functionality (column switching) was performed. "
+TASK1212792,Catalog Task,Software Request : Althea Contreras,,3 - Moderate,Contact Center,Jiahui Ruan,Althea Contreras,08/07/20,08/11/20,4,,
+REQ0979594,Request,"Computers, Accessories and Software",,4 - Low,,,Poonam Kaur,08/28/20,09/01/20,4,,
+RITM0980388,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Poonam Kaur,08/28/20,09/01/20,4,,
+INC1044959,Incident,USR-PO-FSS: can't receive item into the system to close PO 801454914,,3 - Moderate,Procure to Pay (PTP) L1,Harish Naviri,Yan Wang,04/03/20,04/14/20,11,,"Issue: User cant receive an item for PO in EBS
+Root cause: Deliver to location was wrongly entered
+Resolution:FSS suggested to create a new PO and cancel the old PO and requisition"
+INC1254764,Incident,SPARC incident INC1254764 has been replaced by SPARC TASK1479575 ,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Min Deng,04/26/21,05/07/21,11,,
+INC1005266,Incident,Need to transition AOFC-2020-01-0141 to pending review,ELN,3 - Moderate,LIS-ELN-L2,Abdullah Ahmed,Timothy Woods,01/24/20,02/05/20,12,System issue,"Issue: User wants to transition exp AOFC-2020-01-0141 to pending review as author is OOO.
+Status: Resolved.
+Corrective actions taken: Performed admin move to transition exp to pending review state. "
+INC1188701,Incident,PC: Can't add GVault AO_user in IDM,Gvault,3 - Moderate,GVault L2,Goutam Patari,Poonam Kaur,12/17/20,12/29/20,12,,User has confirmed the issue was resolved and no more action needed. 
+TASK1212792,Catalog Task,Software Request : Althea Contreras,,3 - Moderate,Contact Center,Jiahui Ruan,Althea Contreras,08/07/20,08/11/20,4,,
+RITM0963312,Requested Item,Software Request : Althea Contreras,,4 - Low,,,Althea Contreras,08/07/20,08/11/20,4,,
+REQ0962543,Request,Software Request : Althea Contreras,,4 - Low,,,Althea Contreras,08/07/20,08/11/20,4,,
+INC1012321,Incident,CKF Tube Broken,CKF,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Kristie Wong,02/05/20,02/17/20,12,instrument maintain/part replace,Mettler technician provided the tube.  Tubing was replaced.
+INC1231003,Incident,FC: Unable to connect to GC 46427 (FCLACE363),GC,3 - Moderate,LIS-EMPOWER -L2,Ganesh Panjaksharam,Chris Qiu,03/10/21,03/22/21,12,,"Issue: unable to connect to GC 46427
+Root Cause: N/A
+Corrective Action: N/A
+Resolution Notes: Issue has been resolved after power cycle of both LACE and instrument and also after the monitoring was successful requested user to check the instrument method. User confirm it is working fine"
+INC1132623,Incident,Column in results entry is missing,GLIMS,3 - Moderate,LIS-GLIMS-L2,Syed Shafiuddin,Chris Qiu,09/08/20,09/20/20,12,user knowledge/experience,"DESCRIPTION:
+In the result entry, the left column that denotes what the entry is supposed to be is missing 
+INVESTIGATIVE ACTIONS:
+Had a screenshare session with the user.
+ROOT CAUSE:
+This happens when you have just one test in the sample.
+CORRECTIVE ACTIONS:
+Advised the user to enter the results from ""Result Entry by Sample""
+FINAL RESOLUTION:
+This will be fixed with LW8."
+INC1261072,Incident,FC: Plate Transfer Errors on CMMS ID: 42437 ,plate transfer (UPLC 42437),4 - Low,FC Lab Operations L1,Heather Duong,Stephanie Ho,05/08/21,05/20/21,12,user knowledge/experience,The system is functioning as intended. Waters engineer explained to the user how to position the trays in SO. 
+INC1249430,Incident,Needle Wash Line Leaking,UPLC,4 - Low,FC Lab Operations L1,Heather Duong,Stephanie Ho,04/15/21,04/27/21,12,,"User never responded with CMMS ID, or location of the system in question. "
+RITM0963312,Requested Item,Software Request : Althea Contreras,,4 - Low,,,Althea Contreras,08/07/20,08/11/20,4,,
+TASK1191910,Catalog Task,PC : Assign VV-QUAL-146451 to Jessica Trin,,3 - Moderate,GVault L2,Shalu Shalu,Jessica Trinh,07/17/20,07/21/20,4,,
+REQ0962543,Request,Software Request : Althea Contreras,,4 - Low,,,Althea Contreras,08/07/20,08/11/20,4,,
+INC1001745,Incident,ELN status issue after signed off Review - Anna Peh's account,ELN,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Yan Wang,01/17/20,01/29/20,12,,"Issue: ELN status issue after signed off Review - Anna Peh's account
+Status: Resolved
+Root cause: Anna was not able to send the experiment for review
+corrective actions  taken: Asked  Author to bring back the experiment and send that to different reviewer where experiment got reviewed and transitioned to Reviewed stage "
+INC1252257,Incident,Recurring popup to active Windows,,4 - Low,Contact Center,John Murphy,Timothy Woods,04/21/21,05/04/21,13,,
+TASK1329235,Catalog Task,FC-AO: ELN Req LIS SR - ELN (Electronic Lab Notebook),,3 - Moderate,GLIS Support,Sameer Murshed,Stephanie Ho,12/04/20,12/08/20,4,,
+REQ0944828,Request,LIS Service Request,,4 - Low,,,Jessica Trinh,07/17/20,07/21/20,4,,
+RITM0945569,Requested Item,LIS Service Request,,4 - Low,,,Jessica Trinh,07/17/20,07/21/20,4,,
+TASK1269767,Catalog Task,Library Information Services - Access Request: Min Deng,,3 - Moderate,Library Information Services L2,Kimberly Koshiyama,Min Deng,10/05/20,10/09/20,4,,
+REQ1061530,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,12/04/20,12/08/20,4,,
+RITM1062462,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,12/04/20,12/08/20,4,,
+TASK1204190,Catalog Task,Software Request : Min Deng,,3 - Moderate,Contact Center,Jose Erwin Guevarra,Min Deng,07/30/20,08/03/20,4,,
+RITM1011822,Requested Item,Other Request : Min Deng,,4 - Low,,,Min Deng,10/05/20,10/09/20,4,,
+REQ1010944,Request,Other Request : Min Deng,,4 - Low,,,Min Deng,10/05/20,10/09/20,4,,
+INC1113897,Incident,"Draining line is not suctioning enough, so cannot drain the reagent in the vessel",UPLC,2 - High,FC Lab Operations L1,Nathaniel Gagaza,Kristie Wong,08/05/20,08/18/20,13,instrument maintain/part replace,Solvent manager was missing a gasket.  Technician put a new gasket and tubing.  System working as intended.
+INC1071046,Incident,UPLC 45090 column 2 leaks from valve,UPLC,4 - Low,FC Lab Operations L1,Madhuri Nagadi,Chris Qiu,05/21/20,06/03/20,13,user knowledge/experience,"Replaced ferrules on Column Manager, ran flow and pressurized UPLC to 14k for 30 minutes, no leaks observed. Trainned user how to install column."
+TASK1025527,Catalog Task,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,3 - Moderate,Facilities FC - General Maintenance,Ralph Frazier,Timothy Woods,01/23/20,01/28/20,5,,
+REQ0955266,Request,Software Request : Min Deng,,4 - Low,,,Min Deng,07/30/20,08/03/20,4,,
+RITM0956030,Requested Item,Software Request : Min Deng,,4 - Low,,,Min Deng,07/30/20,08/03/20,4,,
+TASK1203044,Catalog Task,ETC MOUSE (NON-STANDARD),,3 - Moderate,IMAC - Foster City,David Nguyen,Yan Wang,07/29/20,08/03/20,5,,
+REQ0804044,Request,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Timothy Woods,01/23/20,01/28/20,5,,
+RITM0804671,Requested Item,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Timothy Woods,01/23/20,01/28/20,5,,
+TASK1085617,Catalog Task,LIS SR - pH Meter,,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Min Deng,03/25/20,03/30/20,5,,
+REQ0954266,Request,"Computers, Accessories and Software",,4 - Low,,,Yan Wang,07/29/20,08/03/20,5,,
+RITM0955029,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Yan Wang,07/29/20,08/03/20,5,,
+TASK1051154,Catalog Task,Software Request : Adobe Acrobat DC Pro,,3 - Moderate,Contact Center,Noriko Senkai,Min Deng,02/19/20,02/24/20,5,,
+REQ0856435,Request,LIS Service Request,,4 - Low,,,Min Deng,03/25/20,03/30/20,5,,
+RITM0857094,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,03/25/20,03/30/20,5,,
+TASK1131185,Catalog Task,LIS SR - Instrument Special Request,,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Shi Sa,05/13/20,05/19/20,6,,
+REQ0826793,Request,Software Request : Min Deng,,4 - Low,,,Min Deng,02/19/20,02/24/20,5,,
+RITM0827436,Requested Item,Software Request : Min Deng,,4 - Low,,,Min Deng,02/19/20,02/24/20,5,,
+TASK1390661,Catalog Task,[FC] - error message appeared when I was entering water content results for GLIMS ID: 3917131 and GLIMS ID: 3917132 regarding rounding issue - Emily Fan,,3 - Moderate,LIS-GLIMS-L2,Mark Borbe,Emily Fan,02/10/21,02/16/21,6,,
+REQ0894558,Request,LIS Service Request,,4 - Low,,,Shi Sa,05/13/20,05/19/20,6,,
+RITM0895242,Requested Item,LIS Service Request,,4 - Low,,,Shi Sa,05/13/20,05/19/20,6,,
+TASK1286811,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Emily Fan,10/21/20,10/27/20,6,,
+RITM1110823,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,02/10/21,02/16/21,6,,
+REQ1108945,Request,LIS Service Request,,4 - Low,,,Emily Fan,02/10/21,02/16/21,6,,
+TASK1272879,Catalog Task,FC - AO - ELN New Hire Laptop Req,,3 - Moderate,GLIS Support,Sameer Murshed,Emily Fan,10/07/20,10/13/20,6,,
+REQ1025631,Request,LIS Service Request,,4 - Low,,,Emily Fan,10/21/20,10/27/20,6,,
+RITM1026534,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,10/21/20,10/27/20,6,,
+TASK1075028,Catalog Task,ETC HEADSET,,3 - Moderate,IMAC - Foster City,David Nguyen,Poonam Kaur,03/13/20,03/19/20,6,,
+RITM1014518,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,10/07/20,10/13/20,6,,
+REQ1013629,Request,LIS Service Request,,4 - Low,,,Emily Fan,10/07/20,10/13/20,6,,
+TASK1501204,Catalog Task,ETC Headset ,,3 - Moderate,IMAC - Foster City,Joseph Van Dyke,Kristie Wong,05/18/21,05/24/21,6,,
+REQ0847548,Request,Collaboration - Zoom (Other) ,,4 - Low,,,Poonam Kaur,03/13/20,03/19/20,6,,
+RITM0848203,Requested Item,Collaboration - Zoom (Other) ,,4 - Low,,,Poonam Kaur,03/13/20,03/19/20,6,,
+TASK1189447,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Kristie Wong,07/15/20,07/21/20,6,,
+RITM1194450,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Kristie Wong,05/18/21,05/24/21,6,,
+REQ1190470,Request,"Computers, Accessories and Software",,4 - Low,,,Kristie Wong,05/18/21,05/24/21,6,,
+TASK1189649,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Antonio Cabrera,Stephanie Ho,07/15/20,07/21/20,6,,
+RITM0943472,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,07/15/20,07/21/20,6,,
+REQ0942731,Request,LIS Service Request,,4 - Low,,,Kristie Wong,07/15/20,07/21/20,6,,
+TASK1222213,Catalog Task,Other Request : Yan Wang,,3 - Moderate,"Ops - Gilead App Delivery Infra (GADI,Citrix)",Masula Gireesam,Yan Wang,08/18/20,08/24/20,6,,
+REQ0942906,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,07/15/20,07/21/20,6,,
+RITM0943647,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,07/15/20,07/21/20,6,,
+TASK1411025,Catalog Task,GDSS Request : Min Deng,,3 - Moderate,IT Security STO Platform,S. Yadav Naruboina,Min Deng,03/01/21,03/07/21,6,,
+RITM0971360,Requested Item,Other Request : Yan Wang,,4 - Low,,,Yan Wang,08/18/20,08/24/20,6,,
+REQ0970581,Request,Other Request : Yan Wang,,4 - Low,,,Yan Wang,08/18/20,08/24/20,6,,
+TASK1145297,Catalog Task,PC:LIS SR - GVAULT (Gilead Vault),,3 - Moderate,GVault L2,Sarmistha Ray,Min Deng,05/28/20,06/03/20,6,,
+RITM1126782,Requested Item,Other Request : Min Deng,,4 - Low,,,Min Deng,03/01/21,03/07/21,6,,
+REQ1124580,Request,Other Request : Min Deng,,4 - Low,,,Min Deng,03/01/21,03/07/21,6,,
+TASK1051153,Catalog Task,Other Request : Min Deng,,3 - Moderate,"Ops - Voice, Voice mail and Call Routing",Rajendran Jayabal,Min Deng,02/19/20,02/25/20,6,,
+RITM0907162,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,05/28/20,06/03/20,6,,
+REQ0906462,Request,LIS Service Request,,4 - Low,,,Min Deng,05/28/20,06/03/20,6,,
+TASK1326928,Catalog Task,FC-AO: ELN Req LIS SR - ELN (Electronic Lab Notebook),,3 - Moderate,GLIS Support,Sameer Murshed,Cinthya Susanibar Tinoco,12/02/20,12/08/20,6,,
+RITM0827435,Requested Item,Other Request : Min Deng,,4 - Low,,,Min Deng,02/19/20,02/25/20,6,,
+REQ0826792,Request,Other Request : Min Deng,,4 - Low,,,Min Deng,02/19/20,02/25/20,6,,
+TASK1273880,Catalog Task,FC : IDM request ID#148312,,3 - Moderate,LIS-LES-L2,Jesse Ng,Emily Fan,10/08/20,10/15/20,7,,
+REQ1059574,Request,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,12/02/20,12/08/20,6,,
+RITM1060502,Requested Item,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,12/02/20,12/08/20,6,,
+TASK1249267,Catalog Task,impurity test method version,,3 - Moderate,LIS-GLIMS-L2,Tony Lin,Yan Wang,09/15/20,09/22/20,7,,
+RITM1015263,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,10/08/20,10/15/20,7,,
+REQ1014374,Request,LIS Service Request,,4 - Low,,,Emily Fan,10/08/20,10/15/20,7,,
+TASK1058875,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Yan Wang,02/27/20,03/05/20,7,,
+RITM0994263,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,09/15/20,09/22/20,7,,
+REQ0993446,Request,LIS Service Request,,4 - Low,,,Yan Wang,09/15/20,09/22/20,7,,
+TASK1261791,Catalog Task,Other Request : Emily Fan,,3 - Moderate,Kronos L2,Ram Kiran Reddy Gunna,Emily Fan,09/28/20,10/06/20,8,,
+REQ0833500,Request,LIS Service Request,,4 - Low,,,Yan Wang,02/27/20,03/05/20,7,,
+RITM0834143,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,02/27/20,03/05/20,7,,
+INC1253012,Incident,"Agilent Disso CMMS ID 47219, vessel ID 142481 latch is broken",Disso bath,4 - Low,FC Lab Operations L1,Madhuri Nagadi,Jessica Trinh,04/22/21,05/05/21,13,instrument maintain/part replace,clip  was replaced
+INC1054663,Incident,Account login issue,,4 - Low,CRMS L1,Sandeep Nelapati,Jessica Trinh,04/22/20,05/05/20,13,,"Hi Jessica,
+Please complete all required sections in from FRM-07839 and submit the form to #CRMSADMIN@gilead.com.
+Thanks
+Sandeep
+From: Jessica Trinh 
+Sent: Wednesday, April 22, 2020 3:28 PM
+To: Sandeep Nelapati (Contractor) <sandeep.nelapati1@gilead.com>
+Cc: Swathi Koonamaraju (Contractor) <swathi.koonamaraju@gilead.com>
+Subject: RE: 4 - Low INC1054663 assigned to CRMS L1
+Hi Sandeep, 
+Thank you for checking. How can I request a CRMS account?
+Best,
+Jessica Trinh
+From: Sandeep Nelapati (Contractor) 
+Hi Jessica,
+Thank you for reaching out to CRMS team.
+I have checked in the system for your user details and I didn't found any matching records with your user network ID. 
+Please let us know how can we proceed further.
+Thanks & Regards
+CRMS Admin
+"
+RITM1005087,Requested Item,Other Request : Emily Fan,,4 - Low,,,Emily Fan,09/28/20,10/06/20,8,,
+REQ1004219,Request,Other Request : Emily Fan,,4 - Low,,,Emily Fan,09/28/20,10/06/20,8,,
+TASK1256530,Catalog Task,Folder access request ,,3 - Moderate,IT Security STO Platform,S. Yadav Naruboina,Emily Fan,09/22/20,09/30/20,8,,
+INC1013131,Incident,Mastersizer 3000 (46414) has intermittent draining issues and thermal peaks,Particles size,3 - Moderate,FC Lab Operations L1,Camille Lagrimas,Timothy Woods,02/06/20,02/20/20,14,user knowledge/experience,"Draining issue was resolved by moving the waste can, thermo peak was determined to be sample related"
+TASK1440475,Catalog Task,FC- Need help transitioning experiment to reviewer,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Kristie Wong,03/25/21,04/02/21,8,,
+REQ0999656,Request,Other Request : Emily Fan,,4 - Low,,,Emily Fan,09/22/20,09/30/20,8,,
+RITM1000516,Requested Item,Other Request : Emily Fan,,4 - Low,,,Emily Fan,09/22/20,09/30/20,8,,
+INC1188090,Incident,QDMS -i have requested access for GVault owner/author and reviewer/approval. its approved but i don't have access to it yet,Gvault,3 - Moderate,GVault L2,Shanu Saurabh,Poonam Kaur,12/16/20,12/30/20,14,,"Category: Training/Knowledge/Information Provided
+User profile has been updated to AO User. Hence proceeding to close this ticket. Screenshot attached for reference. Kindly let me know in case of any issues."
+INC1102123,Incident,Column pre heater configuration issue with UPLC 45085 ,UPLC,3 - Moderate,FC Lab Operations L1,Madhuri Nagadi,Jingtao Wang,07/16/20,07/30/20,14,,New Cables connecting APH sensors to personality board. System/instrument initialize normally and obtain set temperature.
+INC1042911,Incident,"Disso Unit 40027 - position 2 height is off, position 4 vessel holder cracked",Disso bath,3 - Moderate,FC Lab Operations L1,Lauren Segges,Jessica Trinh,03/31/20,04/14/20,14,,The part broken was replaced. Height adjusted. 
+INC1032529,Incident,FC HIST: GS5734_Q4_2016 Result Set ID 13023 LIMS_IMPURITY_STRENGTH report is empty,Empower,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Jessica Trinh,03/11/20,03/25/20,14,,Copied the LIMS_IMPURITY_STRENGTH export method from the 2016 Q1 GS5734 project and it is populating. Also copied the same report to the 2017 Q1 project as user indicated there is reprocessing there as well. Issue is resolved.
+TASK1041806,Catalog Task,Library Information Services - Access Request : Althea Contreras,,3 - Moderate,Library Information Services L2,Debbie Tam,Althea Contreras,02/10/20,02/18/20,8,,
+RITM1149632,Requested Item,LIS Service Request,,4 - Low,,,Kristie Wong,03/25/21,04/02/21,8,,
+REQ1146893,Request,LIS Service Request,,4 - Low,,,Kristie Wong,03/25/21,04/02/21,8,,
+INC1231030,Incident,Not able to connect Android device to GILEAD-WiFi,,4 - Low,Ops - Network HW and WAN/LAN Connections,Abdul Naafay Mohammed,Timothy Woods,03/10/21,03/25/21,15,,User has requested to close this ticket.
+TASK1460564,Catalog Task,Software  Project  Request : Jessica Trinh,,3 - Moderate,Contact Center,Jose Erwin Guevarra,Jessica Trinh,04/13/21,04/21/21,8,,
+REQ0818361,Request,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/18/20,8,,
+RITM0818999,Requested Item,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/18/20,8,,
+INC1101450,Incident,Values in GMP_Particle Size Results tab auto-format to 3 decimal places,Particles size,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Timothy Woods,07/15/20,07/30/20,15,,"Status: Workaround applied
+Root Cause: na
+Corrective Actions Taken:na, request has been added to HPALM#1959, changes can be seen in future release."
+INC1235245,Incident,UPLC #43267 Sample organizer failed due to Leak rate unload valve threshold exceeded (4.0 psi/min),UPLC,4 - Low,FC Lab Operations L1,Heather Duong,Shi Sa,03/17/21,04/01/21,15,instrument maintain/part replace,"Waters Engineer replaced the pneumatic panel, performed multiple plate transfers with no error message. The system is ready for use. "
+INC1114012,Incident,Titer Check Failure,VKF,2 - High,FC Lab Operations L1,Nathaniel Gagaza,Kristie Wong,08/05/20,08/20/20,15,,Titrator check failed.  User moved to another titrator.  Instrument status back to available in LES.
+INC1128552,Incident,GMP FC - Print Capture report ,Sdms,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Chris Qiu,08/31/20,09/15/20,15,,Print report in spool was cleared and report is printed to SDMS.
+TASK1041806,Catalog Task,Library Information Services - Access Request : Althea Contreras,,3 - Moderate,Library Information Services L2,Debbie Tam,Althea Contreras,02/10/20,02/18/20,8,,
+REQ1161643,Request,Software Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,04/13/21,04/21/21,8,,
+RITM1164750,Requested Item,Software Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,04/13/21,04/21/21,8,,
+INC1136547,Incident,"NEW - In Citrix Receriver, no more Empower and ELN,  Krnox app exist",,3 - Moderate,"Ops - Gilead App Delivery Infra (GADI,Citrix)",Kasthuri Velumani,Jingtao Wang,09/15/20,09/30/20,15,System issue,"This is a known issue, if high DPI is not enabled on the client"
+INC1268411,Incident,"Unable to add curricullum - ""internal error""",GxPLearn,3 - Moderate,GxPLearn L2,Sivakumar Thindivanam,Chris Qiu,05/24/21,06/09/21,16,,"1. Steps Taken To Fix Issue : Instructed user
+""Please expand 'Curriculum' option shown in below screenshot and scroll through the list to find the required Curriculum. Internal Error is due to 'Search in Description' attempting to search through the entire catalog to display every item in GxPlearn and resulted in TimeOut.
+
+Please reach PDM Train Coordinator to get the curriculum assigned to your GxPlearn profile""
+2. Repeated Issue (Yes/No) :No
+3. Type of Solution Provided (Permanent/Workaround) :Permanent
+4. If Workaround, When and What would be the Plan for Permanent fix : NA"
+INC1030862,Incident,FC HIST: Peaks in Empower not transferring to GLIMS,HIST,3 - Moderate,LIS-EMPOWER-L3,Ken Vandenoever,Jessica Trinh,03/09/20,03/25/20,16,user knowledge/experience,"See attachment for details on each data set referenced. After reprocessing, some impurities were no longer reported. For others, GLIMS spec had been updated to look for W/W results for the impurities but the older data reports them as %AN. GLIMS corrected the issue on their end and the sample results were uploaded successfully."
+INC1171250,Incident,Observed system leakage somewhere from the detector part UPLC ID 45085,UPLC,3 - Moderate,FC Lab Operations L1,Marcela Jimenez,Yan Wang,11/16/20,12/02/20,16,System issue,"Repairs on the PDA has been completed and passed Waters Detector quals tests. Engineer have replaced the PDA lamp power supply, M1 mirror, beam splitter and optics bench. The detector is reading 93k energy instead 1.5k. This system is ready to be use"
+REQ0818361,Request,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/18/20,8,,
+RITM0818999,Requested Item,General Library Information Services,,4 - Low,,,Althea Contreras,02/10/20,02/18/20,8,,
+TASK1137683,Catalog Task,Software Request : Min Deng,,3 - Moderate,JMP IT Support,Subramani Reddy,Min Deng,05/20/20,05/28/20,8,,
+INC1135656,Incident,SDMS print Capture not working for XRPD CMMS ID 43254,Sdms,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Althea Contreras,09/14/20,10/01/20,17,System issue,This is a known issue. Computer was restarted to release the queue. User Confirmed that they able to print a report now.
+TASK1308828,Catalog Task,Facilities FC - Lab Services - Lab Gas and Dewars,,3 - Moderate,Facilities FC - Lab Services - Lab Gas and Dewars,Steven Beauchamp,Althea Contreras,11/11/20,11/20/20,9,,
+REQ0899902,Request,Software Request : Min Deng,,4 - Low,,,Min Deng,05/20/20,05/28/20,8,,
+RITM0900588,Requested Item,Software Request : Min Deng,,4 - Low,,,Min Deng,05/20/20,05/28/20,8,,
+TASK1308828,Catalog Task,Facilities FC - Lab Services - Lab Gas and Dewars,,3 - Moderate,Facilities FC - Lab Services - Lab Gas and Dewars,Steven Beauchamp,Althea Contreras,11/11/20,11/20/20,9,,
+REQ1044150,Request,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Althea Contreras,11/11/20,11/20/20,9,,
+RITM1045071,Requested Item,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Althea Contreras,11/11/20,11/20/20,9,,
+TASK1234200,Catalog Task,Software Request : Timothy Woods,,3 - Moderate,JMP IT Support,Naresh Mekala,Timothy Woods,08/31/20,09/10/20,10,,
+REQ1044150,Request,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Althea Contreras,11/11/20,11/20/20,9,,
+RITM1045071,Requested Item,General Maintenance Services - Lab Equipment Issue (Other Lab Equipment Issue),,4 - Low,,,Althea Contreras,11/11/20,11/20/20,9,,
+TASK1132454,Catalog Task,General Maintenance Services - Door (Interior),,3 - Moderate,Facilities FC - General Maintenance,Luisito Pineda,Timothy Woods,05/14/20,05/24/20,10,,
+RITM0981364,Requested Item,Software Request : Timothy Woods,,4 - Low,,,Timothy Woods,08/31/20,09/10/20,10,,
+REQ0980570,Request,Software Request : Timothy Woods,,4 - Low,,,Timothy Woods,08/31/20,09/10/20,10,,
+TASK1464623,Catalog Task,FC AO: ELN laptop Request : Bindu Battineni,,3 - Moderate,GLIS Support,Sameer Murshed,Bindu Battineni,04/16/21,04/26/21,10,,
+REQ0895608,Request,General Maintenance Services - Door (Interior),,4 - Low,,,Timothy Woods,05/14/20,05/24/20,10,,
+RITM0896294,Requested Item,General Maintenance Services - Door (Interior),,4 - Low,,,Timothy Woods,05/14/20,05/24/20,10,,
+TASK1475344,Catalog Task,ETC - Headset ,,3 - Moderate,IMAC - Foster City,Joseph Van Dyke,Bindu Battineni,04/27/21,05/07/21,10,,
+REQ1164763,Request,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,04/16/21,04/26/21,10,,
+REQ1172539,Request,"Computers, Accessories and Software",,4 - Low,,,Bindu Battineni,04/27/21,05/07/21,10,,
+INC1135656,Incident,SDMS print Capture not working for XRPD CMMS ID 43254,Sdms,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Althea Contreras,09/14/20,10/01/20,17,System issue,This is a known issue. Computer was restarted to release the queue. User Confirmed that they able to print a report now.
+INC1013823,Incident,ELN Will Not Open,ELN,3 - Moderate,LIS-ELN-L2,Abdullah Ahmed,Stephanie Ho,02/07/20,02/24/20,17,user knowledge/experience,"Issue: User is unable to access ELN.
+Status Resolved.
+Cause:  Multiple users error.
+Resolution Notes:  Monitored  connection center and active directory for any running applications besides for ELN. In this case, there were no applications running at the time. Ended users session and asked her to re- login. "
+INC1017050,Incident,"Requesting ""Regulatory Chrom v1"" report for generating chromatogram for filling",Empower,2 - High,LIS-EMPOWER-L3,Ken Vandenoever,Chris Qiu,02/13/20,03/02/20,18,,"Report was copied to all of the 5734 project 2018-2020. By design, the report is not in all projects by default and is deployed to projects when requested."
+TASK1474102,Catalog Task,MS Visio request : Jessica Trinh,,3 - Moderate,Contact Center,Thayalan Shan,Jessica Trinh,04/26/21,05/06/21,10,,
+RITM1167945,Requested Item,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,04/16/21,04/26/21,10,,
+RITM1175941,Requested Item,"Computers, Accessories and Software",,4 - Low,,,Bindu Battineni,04/27/21,05/07/21,10,,
+INC1113923,Incident,FC: Balance logbook 43808 is not reading balance weight on LES,ELN,4 - Low,LIS-LES-L2,Vinod Veerapuram,Kristie Wong,08/05/20,08/24/20,19,System issue,"Issue: Balance logbook 43808 is not reading balance weight on LES
+Cause:  Possibly bypass NAC by removing the 802.1X security configuration off the switch port.
+Root Cause: Unknown
+Corrective Action Taken: Network team has reapplied the security configuration back on the port and looked at the resulting log entries within NAC. The balance was immediately identified and profiled by NAC, and was granted full access to the Gilead network. As LES Support  team member verified that the balance has network access and balance  started communicating as expected"
+INC1017021,Incident,FC: Unable to access Amazon WorkSpaces due to Display Error,Empower,3 - Moderate,LIS-EMPOWER -L2,John Leboeuf,Chris Qiu,02/13/20,03/03/20,19,,Requester uninstalled the problematic version of the WorkSpace client and was able to roll back to the last known working version. Confirmed working operation is resumed.  
+INC1195276,Incident,All pH meters (at least on my floor) are having connectivity issues,pH meter,2 - High,LIS-LabX-L2,Asfand Safdar,Stephanie Ho,01/05/21,01/24/21,19,System issue,"Issue:  All GMP pH Meters in Building 355, 3rd and 4th Floor are having Connectivity Issues. LabX application wont start.
+Cause: change on main connection (servers). After decommission of idle databases per PR#206007 the service account link was severed between business server and SQL database.
+Corrective action Taken: SQL team restored link of service account and re-established connection between business server and SQL database. pH meters are now communicating as expected"
+TASK1008162,Catalog Task,LIS SR - DSC/TGA (Thermal Advantage Integrity),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Stephanie Ho,01/06/20,01/16/20,10,,
+REQ1171691,Request,Software Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,04/26/21,05/06/21,10,,
+RITM1175061,Requested Item,Software Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,04/26/21,05/06/21,10,,
+TASK1227181,Catalog Task,Add disintegration results for SST-20-090 and SST-20-091 3 month samples to match previous TP,,3 - Moderate,LIS-GLIMS-L2,Tony Lin,Min Deng,08/24/20,09/03/20,10,,
+RITM0789791,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,01/06/20,01/16/20,10,,
+REQ0789181,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,01/06/20,01/16/20,10,,
+INC1244761,Incident,"QDMS : GVault  did not show draft  method STM-4691 (Version 4.0 un-approve), only show Approved method v3.0 and Effectively method",Gvault,4 - Low,GVault L2,Pooja Bhatt,Shi Sa,04/06/21,04/26/21,20,Gvault set,"Category : User unable to view documents in un-approved state
+
+User reported that he was unable to view documents in un-approved state. We checked and found that user has consumer access in Gvault, thus she is able to view documents only in steady state. The same has been informed to the user. We have also provided the required steps to the user in order to get Owner/Author access in Gvault."
+INC1034015,Incident,GMP FC - Print Capture,Sdms,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Poonam Kaur,03/13/20,04/02/20,20,user knowledge/experience,Steps was provided to user to print a report usingSDMS UNIFY Print .
+INC1220981,Incident,"*1 Notification of Windows 10 Version 1909 Upgrade due however, OS cannot be installed.",IT,4 - Low,Contact Center,Noriko Senkai,Jessica Trinh,02/22/21,03/14/21,20,,"Dear Jessica,
+Apologies for my late response. Thank you for trying it again for the upgrade and we are sorry to hear that it did not complete it.
+i have created this ticket for you and escalated to Eng - Windows 10 Hyper-care Support for further assistance.
+Please refer RITM1132294 for further assistance.
+This incident ticket will be closed as now duplicated.
+Thank you and have a lovely day.
+Kind Regards,
+Noriko Senkai
+Enterprise Service Desk Team
+"
+INC1039327,Incident,"AOFC-2020-03-0129 cannot be transitioned to ""Reviewed""",ELN,3 - Moderate,LIS-ELN-L2,Abdullah Ahmed,Althea Contreras,03/24/20,04/14/20,21,,"Issue: User is unable to transition exp from pending review to transitioned, even after reviewer as already reviewed experiment. 
+Status: Resolved.
+Cause: Please refer to INC1039472
+Resolution: Performed admin move."
+INC1039327,Incident,"AOFC-2020-03-0129 cannot be transitioned to ""Reviewed""",ELN,3 - Moderate,LIS-ELN-L2,Abdullah Ahmed,Althea Contreras,03/24/20,04/14/20,21,,"Issue: User is unable to transition exp from pending review to transitioned, even after reviewer as already reviewed experiment. 
+Status: Resolved.
+Cause: Please refer to INC1039472
+Resolution: Performed admin move."
+TASK1391489,Catalog Task,FC: Request for Empower GMP Access (access request ID: 166858),,3 - Moderate,LIS-EMPOWER -L2,Ganesh Panjaksharam,Emily Fan,02/11/21,02/22/21,11,,
+RITM0975408,Requested Item,LIS Service Request,,4 - Low,,,Min Deng,08/24/20,09/03/20,10,,
+REQ0974620,Request,LIS Service Request,,4 - Low,,,Min Deng,08/24/20,09/03/20,10,,
+INC1128332,Incident,FC - AO - ELN Laptop Issue - Kristie Wong,LES,4 - Low,GLIS Support,Sameer Murshed,Kristie Wong,08/31/20,09/25/20,25,,Have confirmed the users laptop is working as expected and she can perform her work and access Microsoft teams. RITM0998049 has been submitted to follow up on resolution issue within the citrix receiver. 
+INC1001219,Incident,reviewer role in q-doc software for Disintegrator DT50 unable to view reports,Disintegrator,2 - High,FC Lab Operations L1,Ilgiz Yamilov,Chris Qiu,01/16/20,02/11/20,26,,"Please close the ticket – let them know in the closure that it is being addressed through a change management record and that they can reach out to Pravin and I for updates.
+
+
+"
+INC1001219,Incident,reviewer role in q-doc software for Disintegrator DT50 unable to view reports,Disintegrator,2 - High,FC Lab Operations L1,Ilgiz Yamilov,Chris Qiu,01/16/20,02/11/20,26,,"Closing ticket per Nick's email:
+From: Nick Johnson <Nick.Johnson@gilead.com> 
+Sent: Tuesday, February 04, 2020 1:53 PM
+To: Ilgiz Yamilov (Contractor) <Ilgiz.Yamilov@gilead.com>
+Subject: RE: 2 - High Incident assigned to your group FC Lab Operations L1
+Hi Ilgiz,
+Please close the ticket – let them know in the closure that it is being addressed through a change management record and that they can reach out to Pravin and I for updates.
+Best,
+Nick
+
+"
+TASK1425888,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Stephanie Ho,03/12/21,03/23/21,11,,
+REQ1109571,Request,LIS Service Request,,4 - Low,,,Emily Fan,02/11/21,02/22/21,11,,
+RITM1111465,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,02/11/21,02/22/21,11,,
+TASK1056818,Catalog Task,[AU-PO]-PO processing,,3 - Moderate,Procure to Pay (PTP) L1,Ashwini Pratap,Jessica Trinh,02/25/20,03/09/20,13,,
+RITM1138487,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,03/12/21,03/23/21,11,,
+REQ1136031,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,03/12/21,03/23/21,11,,
+TASK1440602,Catalog Task,Software adobe  Request : Min Deng,,3 - Moderate,Contact Center,Carol Yan,Min Deng,03/25/21,04/07/21,13,,
+REQ0895600,Request,Lab Services - Other Lab Services,,4 - Low,,,Timothy Woods,05/14/20,05/26/20,12,,
+RITM0896286,Requested Item,Lab Services - Other Lab Services,,4 - Low,,,Timothy Woods,05/14/20,05/26/20,12,,
+INC1203213,Incident,"Run date for Indium Std on 23Dec20 changed to 13Jan21 in history records, DSC CMMS ID 47705",DSC,3 - Moderate,FC Lab Operations L1,Denise Trans,Jessica Trinh,01/20/21,02/16/21,27,,Being addressed in deviation PR 212098  - DSC TRIOS Report Not Displaying Acquisition Date & Time as Required
+INC1016190,Incident,Glove Box Sleeve Missing,Glove BOX,3 - Moderate,FC Lab Operations L1,Nathaniel Gagaza,Stephanie Ho,02/12/20,03/10/20,27,instrument maintain/part replace,LapOps not responsible for consumables.  Will need to be ordered by lab lead.
+INC1212231,Incident,experienced sudden security check failure,IT,4 - Low,Contact Center,Jose Erwin Guevarra,Yan Wang,02/05/21,03/04/21,27,,"Hi Yan,   Thank you for contacting Gilead Service  Desk.  As per your email, you confirmed that your laptop is working fine bow.  I'll go ahead and close this ticket for you. 
+Please feel free to contact us again if you'll have other IT inquiries. 
+     Kind Regards, 
+Jose Erwin Guevarra
+Enterprise Service Desk"
+INC1004609,Incident,Malvern Mastersizer 2000 (CMMS ID: 40015) failed system suitability check,Particles size,3 - Moderate,FC Lab Operations L1,Camille Lagrimas,Timothy Woods,01/23/20,02/20/20,28,instrument maintain/part replace,"Window cell was cleaned, system suit was  performed and passed , no detector issues"
+TASK1171286,Catalog Task,General Maintenance Services - Door (Interior),,3 - Moderate,Facilities FC - General Maintenance,Joseph DiAndrea,Timothy Woods,06/24/20,07/09/20,15,,
+REQ0831673,Request,Other Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,02/25/20,03/09/20,13,,
+RITM0832315,Requested Item,Other Request : Jessica Trinh,,4 - Low,,,Jessica Trinh,02/25/20,03/09/20,13,,
+INC1206483,Incident,VKF 44927 has a Broken Injection Stopper,VKF,4 - Low,FC Lab Operations L1,Nathaniel Gagaza,Timothy Woods,01/26/21,02/24/21,29,instrument maintain/part replace,Defective stopper was replaced with a new stopper.
+INC1187941,Incident,Monitor not detected,IT,4 - Low,Contact Center,Daniel O Sullivan,Kristie Wong,12/16/20,01/15/21,30,,"Hi Kristie,
+As per your message this has been resolved. If you have any other issues or questions please don't hesitate to call the Service Desk.
+Regards,
+Daniel O'Sullivan"
+TASK1187912,Catalog Task,FC- Experiment stuck in Private,,3 - Moderate,LIS-ELN-L2,Aruna Vytla,Stephanie Ho,07/14/20,07/29/20,15,,
+REQ1146992,Request,Software Request : Min Deng,,4 - Low,,,Min Deng,03/25/21,04/07/21,13,,
+RITM1149731,Requested Item,Software Request : Min Deng,,4 - Low,,,Min Deng,03/25/21,04/07/21,13,,
+TASK1429060,Catalog Task,Res: FC - User Management - Activation - Cinthya Susanibar Tinoco,,3 - Moderate,LIS-SDMS-L2,Karthik Amudala,Cinthya Susanibar Tinoco,03/16/21,04/01/21,16,,
+RITM0928939,Requested Item,General Maintenance Services - Door (Interior),,4 - Low,,,Timothy Woods,06/24/20,07/09/20,15,,
+REQ0928220,Request,General Maintenance Services - Door (Interior),,4 - Low,,,Timothy Woods,06/24/20,07/09/20,15,,
+INC1122320,Incident,Lots of lag experienced with using VPN over the last week,,4 - Low,Ops - Network Security,Pinto Maria,Timothy Woods,08/20/20,09/21/20,32,IT VPN connection," I actually haven't noticed as much lag recently when working from home on the VPN. I am not sure if a fix or change was recently implemented, but it's definitely an improvement from what I was experiencing before. Thank you so much for reaching out!
+"
+TASK1429065,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Eric Maravilla,Cinthya Susanibar Tinoco,03/16/21,04/06/21,21,,
+RITM0942180,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,07/14/20,07/29/20,15,,
+REQ0941439,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,07/14/20,07/29/20,15,,
+TASK1491123,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Bindu Battineni,05/10/21,06/01/21,22,,
+REQ1138271,Request,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,03/16/21,04/01/21,16,,
+RITM1140791,Requested Item,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,03/16/21,04/01/21,16,,
+TASK1227526,Catalog Task,LIS SR - Instrument Special Request,,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,08/24/20,09/15/20,22,,
+REQ1138276,Request,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,03/16/21,04/06/21,21,,
+RITM1140796,Requested Item,LIS Service Request,,4 - Low,,,Cinthya Susanibar Tinoco,03/16/21,04/06/21,21,,
+RITM1186977,Requested Item,LIS Service Request,,4 - Low,,,Bindu Battineni,05/10/21,06/01/21,22,,
+TASK1227526,Catalog Task,LIS SR - Instrument Special Request,,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Althea Contreras,08/24/20,09/15/20,22,,
+RITM0975737,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,08/24/20,09/15/20,22,,
+TASK1337268,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Stephanie Ho,12/14/20,01/05/21,22,,
+REQ0974949,Request,LIS Service Request,,4 - Low,,,Althea Contreras,08/24/20,09/15/20,22,,
+RITM0975737,Requested Item,LIS Service Request,,4 - Low,,,Althea Contreras,08/24/20,09/15/20,22,,
+INC1079767,Incident,"FC: UPLC 42438, Column communication error",UPLC,3 - Moderate,FC Lab Operations L1,Hammi Messate,Poonam Kaur,06/05/20,07/21/20,46,,Engineer could not reproduce the error. 
+TASK1203229,Catalog Task,FC-Res- SDMS Print Capture,,3 - Moderate,LIS-SDMS-L2,Arokia Raj,Timothy Woods,07/29/20,08/21/20,23,,
+REQ0974949,Request,LIS Service Request,,4 - Low,,,Althea Contreras,08/24/20,09/15/20,22,,
+RITM1069329,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,12/14/20,01/05/21,22,,
+TASK1464574,Catalog Task,FC: Request for procedure to gain access to LES,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Bindu Battineni,04/16/21,05/11/21,25,,
+REQ1068383,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,12/14/20,01/05/21,22,,
+RITM0955213,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,07/29/20,08/21/20,23,,
+REQ0954450,Request,LIS Service Request,,4 - Low,,,Timothy Woods,07/29/20,08/21/20,23,,
+TASK1333425,Catalog Task,LIS SR - DSC/TGA (Thermal Advantage Integrity),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Stephanie Ho,12/09/20,01/05/21,27,,
+REQ1164722,Request,LIS Service Request,,4 - Low,,,Bindu Battineni,04/16/21,05/11/21,25,,
+INC1021404,Incident,RnD UV Vis peripheral shows fatal error,UV Vis,2 - High,FC Lab Operations L1,Nathaniel Gagaza,Chris Qiu,02/21/20,04/24/20,63,instrument maintain/part replace,"Issue: unit displays flashing red light and displays ""fatal error"" in LabX.
+Technician remarks:  Upon initial check, autosampler would not go to home position after initial start up. Tower
+would only move slightly up and down but arm and tray would not move at all. New arm
+motor board and arm sensor board installed. Unit continued to have the same issue. Old
+boards reinstalled back into the unit. Spindles connected to the motors on the tower and
+arm inspected. Noticed that spindle on the arm was not spinning easily. Drove both
+spindles up and down. Inspected to make sure all cables were fully connected. Reset arm
+spindle to the home position and tower spindle to the center. Unit restarted and tested. Unit
+then automatically went to home position after start up and tray was once again operating.
+Lights flashed with the correct sequence.
+Performed diagnostic test on autosampler using Lars software. Unit passed tested
+parameters.
+"
+INC1270368,Incident,"""Your Windows will expire soon""",,4 - Low,Contact Center,Telma Monteiro,Chris Qiu,05/27/21,,#NUM!,,
+INC1280868,Incident,Plate Transfer Error on LC CMMS ID: 43267,Plate transfer (UPLC 43267),3 - Moderate,FC Lab Operations L1,Heather Duong,Stephanie Ho,06/17/21,,#NUM!,,System is functioning as intended. Engineer showed the user how to place the plates into the trays to void the errors. 
+RITM1167903,Requested Item,LIS Service Request,,4 - Low,,,Bindu Battineni,04/16/21,05/11/21,25,,
+REQ1065202,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,12/09/20,01/05/21,27,,
+RITM1066135,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,12/09/20,01/05/21,27,,
+REQ0989502,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,09/10/20,10/09/20,29,,
+TASK1244739,Catalog Task,SPARC TASK1244739 has been replaced by SPARC INC1150142,,3 - Moderate,LIS-LES-L2,Vinod Veerapuram,Stephanie Ho,09/10/20,10/09/20,29,,
+RITM0990316,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,09/10/20,10/09/20,29,,
+REQ1163702,Request,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,04/15/21,05/26/21,41,,
+TASK1463290,Catalog Task,Microphone and the speaker are not working. Request : Bindu Battineni,,3 - Moderate,Contact Center,David Nti,Bindu Battineni,04/15/21,05/26/21,41,,
+RITM1166868,Requested Item,Other Request : Bindu Battineni,,4 - Low,,,Bindu Battineni,04/15/21,05/26/21,41,,
+REQ1053004,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,11/23/20,01/12/21,50,,
+TASK1319108,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Eric Maravilla,Stephanie Ho,11/23/20,01/12/21,50,,
+RITM1053930,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,11/23/20,01/12/21,50,,
+REQ1015552,Request,Space Planning Services - Signage (Other Signage Service),,4 - Low,,,Jessica Trinh,10/09/20,12/03/20,55,,
+TASK1275257,Catalog Task,Space Planning Services - Signage (Other Signage Service),,3 - Moderate,Facilities FC - SHS - Lab Signage,Amanda Sunny,Jessica Trinh,10/09/20,12/03/20,55,,
+RITM1016443,Requested Item,Space Planning Services - Signage (Other Signage Service),,4 - Low,,,Jessica Trinh,10/09/20,12/03/20,55,,
+REQ1062921,Request,LIS Service Request,,4 - Low,,,Chris Qiu,12/07/20,02/01/21,56,,
+TASK1330784,Catalog Task,need help setting up a procurement request in iProcurement for an Ink cartridge from California Advanced Labeling,,3 - Moderate,Procure to Pay (PTP) L1,Pradeep Kumar,Chris Qiu,12/07/20,02/01/21,56,,
+RITM1063853,Requested Item,LIS Service Request,,4 - Low,,,Chris Qiu,12/07/20,02/01/21,56,,
+REQ1031341,Request,LIS Service Request,,4 - Low,,,Stephanie Ho,10/28/20,01/12/21,76,,
+TASK1293449,Catalog Task,Connectivity issue,,3 - Moderate,FC Lab Operations L1,Eric Maravilla,Stephanie Ho,10/28/20,01/12/21,76,,
+RITM1032248,Requested Item,LIS Service Request,,4 - Low,,,Stephanie Ho,10/28/20,01/12/21,76,,
+RITM1031081,Requested Item,LIS Service Request,,4 - Low,,,Emily Fan,10/27/20,01/17/21,82,,
+INC1275562,Incident,Display Error for the Milli-Q Water CMMS ID: 44542,water system,4 - Low,FC Lab Operations L1,Marcela Jimenez,Stephanie Ho,06/08/21,,#NUM!,,
+TASK1292070,Catalog Task,LIS SR - LES (Lab Execution System),,3 - Moderate,FC Lab Operations L1,Asfand Safdar,Emily Fan,10/27/20,01/17/21,82,,
+REQ1030174,Request,LIS Service Request,,4 - Low,,,Emily Fan,10/27/20,01/17/21,82,,
+REQ0954585,Request,LIS Service Request,,4 - Low,,,Yan Wang,07/29/20,11/24/20,118,,
+RITM0955348,Requested Item,LIS Service Request,,4 - Low,,,Yan Wang,07/29/20,11/24/20,118,,
+TASK1203367,Catalog Task,LIS SR - XRD (PANalytical Empyrean Diffrac),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Yan Wang,07/29/20,11/24/20,118,,
+REQ0821373,Request,LIS Service Request,,4 - Low,,,Timothy Woods,02/12/20,06/24/20,133,,
+TASK1045177,Catalog Task,LIS SR - MT/KF (LabX),,3 - Moderate,FC Lab Operations L1,Uzma Iftikhar,Timothy Woods,02/12/20,06/24/20,133,,
+RITM0822011,Requested Item,LIS Service Request,,4 - Low,,,Timothy Woods,02/12/20,06/24/20,133,,
+REQ1028861,Request,Lab Services - Other Lab Services,,4 - Low,,,Jessica Trinh,10/26/20,03/09/21,134,,
+RITM1029767,Requested Item,Lab Services - Other Lab Services,,4 - Low,,,Jessica Trinh,10/26/20,03/09/21,134,,
+RITM0789897,Requested Item,General Maintenance Services - Door (Exterior),,4 - Low,,,Jessica Trinh,01/06/20,06/24/20,170,,
+TASK1008271,Catalog Task,General Maintenance Services - Door (Exterior),,3 - Moderate,Corp. Security FC - Security Systems,Doug Wynn,Jessica Trinh,01/06/20,06/24/20,170,,
+REQ0789287,Request,General Maintenance Services - Door (Exterior),,4 - Low,,,Jessica Trinh,01/06/20,06/24/20,170,,
+RITM1003316,Requested Item,Add/Remove Users from Group : Timothy Woods,,4 - Low,,,Timothy Woods,09/24/20,04/21/21,209,,
